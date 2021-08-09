@@ -1,6 +1,4 @@
 ## Yanan (Yaya) Guo
-### 郭雅楠
-#### TESTING
 
 
 {{< rawhtml >}}
