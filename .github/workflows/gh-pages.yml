@@ -3,7 +3,7 @@ name: github pages
 on:
   push:
     branches:
-      - source # Set a branch to trigger deployment
+      - master # Set a branch to trigger deployment
   pull_request:
 
 jobs:
