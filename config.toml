@@ -1,0 +1,69 @@
+baseURL = "http://yayaguo.net"
+languageCode = "en-us"
+title = "Yaya Guo's Site"
+theme = "anatole"
+
+[params]
+title = "Yaya Guo"
+author = "Yaya Guo"
+description = "<center>郭雅楠</center>"
+profilePicture = "images/yanan4.jpg"
+contentratio = 0.65
+mainsections=[]
+customCss = ["https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css"]
+
+
+
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/yanan-guo-939b09142"
+
+[[params.socialIcons]]
+icon = "fab fa-github"
+title = "GitHub"
+url = "https://github.com/tuinannan"
+
+[[params.socialIcons]]
+icon = "ai ai-google-scholar"
+title = "Google"
+url = "https://scholar.google.com/citations?user=TKheXMEAAAAJ&hl=en"
+
+[[params.socialIcons]]
+icon = "fas fa-envelope"
+title = "e-mail"
+url = "mailto:yag45@pitt.edu"
+
+[markup.goldmark.renderer]
+unsafe= true
+
+
+
+
+[menu]
+
+  [[menu.main]]
+    name = "Home"
+    identifier = "home"
+    weight = 100
+    url = "/"
+
+
+  [[menu.main]]
+    name = "Publication"
+    weight = 200
+    identifier = "publication"
+    url = "/publication/"
+ 
+  [[menu.main]]
+    name = "Research"
+    weight = 300
+    identifier = "research"
+    url = "/research/"
+
+
+  [[menu.main]]
+    name = "Lucky Guo"
+    weight = 400
+    identifier = "lucky"
+    url = "/lucky/"
