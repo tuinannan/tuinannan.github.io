@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yaya Guo&#39;s Site</title>
+    <link>http://yayaguo.net/</link>
+    <description>Recent content on Yaya Guo&#39;s Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://yayaguo.net/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://yayaguo.net/cheat_sheet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://yayaguo.net/cheat_sheet/</guid>
+      
+        <description>Markdown Cheat Sheet Thanks for visiting The Markdown Guide!
+This Markdown cheat sheet provides a quick overview of all the Markdown syntax elements. It can’t cover every edge case, so if you need more information about any of these elements, refer to the reference guides for basic syntax and extended syntax.
+Basic Syntax These are the elements outlined in John Gruber’s original design document. All Markdown applications support these elements.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
