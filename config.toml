@@ -1,0 +1,61 @@
+baseURL = "http://yayaguo.net"
+languageCode = "en-us"
+title = "Yaya Guo's Site"
+theme = "anatole"
+
+[params]
+title = "This is Yanan (Yaya) Guo"
+author = "Yaya"
+description = "Welcome!"
+profilePicture = "images/yanan4.jpg"
+
+
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/yanan-guo-939b09142"
+
+[[params.socialIcons]]
+icon = "fab fa-github"
+title = "GitHub"
+url = "https://github.com/tuinannan"
+
+[[params.socialIcons]]
+icon = "fab fa-google"
+title = "Google"
+url = "https://scholar.google.com/citations?user=TKheXMEAAAAJ&hl=en"
+
+[[params.socialIcons]]
+icon = "fas fa-envelope"
+title = "e-mail"
+url = "mailto:yag45@pitt.edu"
+
+
+
+
+
+[menu]
+
+  [[menu.main]]
+    name = "Home"
+    identifier = "home"
+    weight = 100
+    url = "/"
+
+  [[menu.main]]
+    name = "Research"
+    weight = 200
+    identifier = "research"
+    url = "/research/"
+
+  [[menu.main]]
+    name = "Publication"
+    weight = 300
+    identifier = "publication"
+    url = "/publication/"
+
+  [[menu.main]]
+    name = "Lucky_Guo"
+    weight = 400
+    identifier = "lucky"
+    url = "/lucky/"
