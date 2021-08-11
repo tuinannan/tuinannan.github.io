@@ -8,6 +8,9 @@
     <loc>http://yayaguo.net/cheat_sheet/</loc>
     <priority>0</priority>
   </url><url>
+    <loc>http://yayaguo.net/index_backup/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>http://yayaguo.net/categories/</loc>
   </url><url>
     <loc>http://yayaguo.net/tags/</loc>

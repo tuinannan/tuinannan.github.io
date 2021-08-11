@@ -19,5 +19,17 @@ Basic Syntax These are the elements outlined in John Gruber’s original design 
       
     </item>
     
+    <item>
+      <title></title>
+      <link>http://yayaguo.net/index_backup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://yayaguo.net/index_backup/</guid>
+      
+        <description>Yanan (Yaya) Guo Hi there! I am currently a third-year PhD student at the University of Pittsburgh, working with my advisor Dr. Jun Yang in the Electrical and Computer Engineering Department. I graduated from Xidian University in 2018 with a B.S. in whatever.
+My research interest lies in the areas of computer architecture and security, with a focus on memory attacks and defenses, ML attacks and defenses, and quantum computer.</description>
+      
+    </item>
+    
   </channel>
 </rss>
