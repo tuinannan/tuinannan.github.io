@@ -11,6 +11,9 @@
     <loc>http://yayaguo.net/index_backup/</loc>
     <priority>0</priority>
   </url><url>
+    <loc>http://yayaguo.net/publication/</loc>
+    <priority>0</priority>
+  </url><url>
     <loc>http://yayaguo.net/categories/</loc>
   </url><url>
     <loc>http://yayaguo.net/tags/</loc>
