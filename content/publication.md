@@ -1,4 +1,6 @@
 
+[C]**Yanan Guo**, Christopher Dipalma, Takami Sato, Yulong Cal, Alfred Chen, Yueqiang Cheng, *An Adversarial Attack on DNN-based Adaptive Cruise Control Systems*. **<span style="color:red">(ICCV'21 Workshop)</span>**. [<i class="far fa-file-pdf"></i>](s)
+
 [C]**Yanan Guo**, Andrew Zigerelli, Youtao Zhang, Jun Yang, *Performance-Enhanced Integrity Verification for Large Memories*. In Proceedings of the 1st IEEE International Symposium on Secure and Private Execution Environment Design **<span style="color:red">(SEED'21)</span>**. [<i class="far fa-file-pdf"></i>](s)
 
 [C] Xin Xin, **Yanan Guo**, Youtao Zhang, Jun Yang, *SAM: Accelerating Strided Memory Accesses*. In Proceedings of the 54th IEEE/ACM International Symposium on Microarchitecture
