@@ -23,6 +23,9 @@ quantum computers.
 ---
 ### Recent News
 
+
+08/2021: Our work on defending bit-flip adversarial weight attacks got accepted in [ICCD'21](https://www.iccd-conf.com/Home.html).
+
 08/2021: Our work on attacking adaptive cruise control systems got accepted in [ICCV Workshop'21](https://iccv21-adv-workshop.github.io/).
 
 08/2021: Our work on improving the performance of memory integrity verification got accepted in [SEED'21](https://seed-symposium.org/).
