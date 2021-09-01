@@ -50,9 +50,9 @@ unsafe= true
 
 
   [[menu.main]]
-    name = "Publication"
+    name = "Publications"
     weight = 200
-    identifier = "publication"
+    identifier = "publications"
     url = "/publication/"
  
   [[menu.main]]
