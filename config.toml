@@ -53,7 +53,7 @@ unsafe= true
     name = "Publications"
     weight = 200
     identifier = "publications"
-    url = "/publication/"
+    url = "/publications/"
  
   [[menu.main]]
     name = "Research"
