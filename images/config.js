@@ -1,0 +1,5 @@
+"thumbnailWidth": "auto",
+"thumbnailHeight": 225,
+"thumbnailBorderHorizontal": 0,
+"thumbnailBorderVertical": 0,
+"thumbnailDisplayTransition": "scaleUp",
