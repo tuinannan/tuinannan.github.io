@@ -1,4 +1,7 @@
-```{r, echo = TRUE, out.width="30%"}
-myimages<-list.files("/files/images/", pattern = ".jpeg", full.names = TRUE)
-include_graphics(myimages)
-```
++++
+title = ""
+nanogallery = "yes"
++++
+## Here is Lucky Guo
+
+{{< nanogallery id="my-gal" configfile="/images/config.js" contentfile="/images/content.json" >}}

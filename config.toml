@@ -34,8 +34,13 @@ icon = "fas fa-envelope"
 title = "e-mail"
 url = "mailto:yag45@pitt.edu"
 
-[markup.goldmark.renderer]
-unsafe= true
+#[markup.goldmark.renderer]
+#unsafe = true
+[markup]
+  [markup.goldmark]
+      [markup.goldmark.renderer]
+            unsafe = true
+
 
 
 
