@@ -6,7 +6,7 @@
 [C] **Yanan Guo**, Andrew Zigerelli, Yueqiang Cheng, Youtao Zhang, and Jun Yang, *Performance-Enhanced Integrity Verification for Large Memories*. In Proceedings of the 1st IEEE International Symposium on Secure and Private Execution Environment Design **<span style="color:red">(SEED'21)</span>**. [<i class="far fa-file-pdf"></i>](/files/seed21.pdf)
 
 [C] Xin Xin, **Yanan Guo**, Youtao Zhang, and Jun Yang, *SAM: Accelerating Strided Memory Accesses*. In Proceedings of the 54th IEEE/ACM International Symposium on Microarchitecture
-**<span style="color:red">(MICRO'21)</span>**. <i class="far fa-file-pdf"></i>
+**<span style="color:red">(MICRO'21)</span>**. [<i class="far fa-file-pdf"></i>](/files/micro21.pdf)
 
 [C] **Yanan Guo**, Andrew Zigerelli, Youtao Zhang, and Jun Yang, *IVcache: Defending Cache Side Channel Attacks via Invisible Accesses*. In Proceedings of the 2021 on Great Lakes Symposium on VLSI  **<span style="color:red">(GLSVLSI'21)</span>**. [<i class="far fa-file-pdf"></i>](/files/glsvlsi.pdf)
 
