@@ -1,4 +1,7 @@
 
+
+[C] Yilun Zhao, **Yanan Guo**, Yuan Yao, Amanda Dumi, Devin M Mulvey, Shiv Upadhyay, Youtao Zhang, Kenneth D Jordan, Jun Yang, Xulong Tang, *Q-GPU: A Recipe of Optimizations for Quantum Circuit Simulation Using GPUs*. In Proceedings of the 28th IEEE International Symposium on High-Performance Computer Architecture **<span style="color:red">(HPCA'22)</span>**. [<i class="far fa-file-pdf"></i>](ss)
+
 [C] **Yanan Guo**, Liang Liu, Yueqiang Cheng, Youtao Zhang, and Jun Yang, *ModelShield: A Generic and Portable Framework Extension for Defending Bit-Flip based Adversarial Weight Attacks*. In Proceedings of the 39th IEEE International Conference on Computer Design **<span style="color:red">(ICCD'21)</span>**. [<i class="far fa-file-pdf"></i>](/files/iccd21.pdf)
 
 [C] **Yanan Guo**, Christopher Dipalma, Takami Sato, Yulong Cal, Alfred Chen, and Yueqiang Cheng, *An Adversarial Attack on DNN-based Adaptive Cruise Control Systems*. **<span style="color:red">(ICCV'21 Workshop)</span>**. [<i class="far fa-file-pdf"></i>](/files/iccv21.pdf) [<i class="fas fa-link"></i>](https://sites.google.com/view/acc-adv)

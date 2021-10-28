@@ -27,6 +27,8 @@ quantum computers.
 10/2021: Our work on data prefetching based cache side channel attacks is now available on arxiv.<br> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This is the first work on cross-core L1 cache attacks. [<i class="fas fa-link"></i>](https://arxiv.org/abs/2110.12340)
 
+10/2021: Our work on accelerating quantum computing simulation got accepted in [HPCA'22](https://hpca-conf.org/2022/).
+
 08/2021: Our work on defending bit-flip adversarial weight attacks got accepted in [ICCD'21](https://www.iccd-conf.com/Home.html).
 
 08/2021: Our work on attacking adaptive cruise control systems got accepted in [ICCV Workshop'21](https://iccv21-adv-workshop.github.io/).
