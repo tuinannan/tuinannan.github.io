@@ -24,8 +24,7 @@ quantum computers.
 ### Recent News
 
 
-10/2021: Our work on data prefetching based cache side channel attacks is now available on arxiv.<br> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This is the first work on cross-core L1 cache attacks. [<i class="fas fa-link"></i>](https://arxiv.org/abs/2110.12340)
+10/2021: Our work on data prefetching based cache side channel attacks is now available on arxiv [<i class="fas fa-link"></i>](https://arxiv.org/abs/2110.12340).
 
 10/2021: Our work on accelerating quantum computing simulation got accepted in [HPCA'22](https://hpca-conf.org/2022/).
 
