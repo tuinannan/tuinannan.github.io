@@ -23,6 +23,9 @@ quantum computers.
 ---
 ### Recent News
 
+03/2022: Our work on data prefetching based cache side channel attacks got accepted in [S&P'22](https://www.ieee-security.org/TC/SP2022/index.html).
+
+02/2022: Our work on attacking the adaptive line control systems got accepted in [AutoSec'11](https://www.ndss-symposium.org/ndss2022/cfp-autosec-workshop/).
 
 10/2021: Our work on data prefetching based cache side channel attacks is now available on arxiv [<i class="fas fa-link"></i>](https://arxiv.org/abs/2110.12340) (code release coming soon).
 

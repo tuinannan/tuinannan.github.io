@@ -1,4 +1,4 @@
-
+[C] **Yanan Guo**, Andrew Zigerelli, Youtao Zhang, Jun Yang, *Adversarial Prefetch: New Cross-Core Cache Side Channel Attacks*. In 2022 IEEE Symposium on Security and Privacy **<span style="color:red">(S&P'22)</span>**. [<i class="far fa-file-pdf"></i>](https://arxiv.org/abs/2110.12340)
 
 [C] Yilun Zhao, **Yanan Guo**, Yuan Yao, Amanda Dumi, Devin M Mulvey, Shiv Upadhyay, Youtao Zhang, Kenneth D Jordan, Jun Yang, Xulong Tang, *Q-GPU: A Recipe of Optimizations for Quantum Circuit Simulation Using GPUs*. In Proceedings of the 28th IEEE International Symposium on High-Performance Computer Architecture **<span style="color:red">(HPCA'22)</span>**. [<i class="far fa-file-pdf"></i>](ss)
 
