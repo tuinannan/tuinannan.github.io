@@ -23,6 +23,10 @@ quantum computers.
 ---
 ### Recent News
 
+07/2022: Our work on way-conflict based cache attacks got accepted in [MICRO'22](https://www.microarch.org/micro55/).
+
+06/2022: The code of adversarial prefetch is available on [github](https://github.com/PittECEArch/AdversarialPrefetch) now.
+
 05/2022: Started an internship at Nvidia, will be working on offensive hardware security research.
 
 03/2022: Our work on data prefetching based cache side channel attacks got accepted in [S&P'22](https://www.ieee-security.org/TC/SP2022/index.html).
