@@ -21,7 +21,7 @@ quantum computers.
 <i class="fas fa-phone"></i>  412-624-8000
 
 ---
-### Recent News
+### Recent News  
 
 07/2022: Our work on way-conflict based cache attacks got accepted in [MICRO'22](https://www.microarch.org/micro55/).
 
@@ -32,6 +32,10 @@ quantum computers.
 03/2022: Our work on data prefetching based cache side channel attacks got accepted in [S&P'22](https://www.ieee-security.org/TC/SP2022/index.html).
 
 02/2022: Our work on attacking the adaptive line control systems got accepted in [AutoSec'22](https://www.ndss-symposium.org/ndss2022/cfp-autosec-workshop/).
+
+<details>
+<summary> Click to unfold
+</summary>
 
 10/2021: Our work on data prefetching based cache side channel attacks is now available on arxiv [<i class="fas fa-link"></i>](https://arxiv.org/abs/2110.12340) (code release coming soon).
 
@@ -52,3 +56,6 @@ quantum computers.
 02/2021: Started an internship at NIO, will be working on In-vehicle ML security.
 
 06/2020: Successfully defended my MS thesis: [New Cache Attacks and Defenses](http://d-scholarship.pitt.edu/38323/).
+
+</details>
+
