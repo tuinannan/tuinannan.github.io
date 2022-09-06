@@ -26,6 +26,8 @@ quantum computers.
 ---
 ### Recent News  
 
+09/2022: Our work on defending bit flip attacks got accepted in IEEE Transactions on Computers.
+
 07/2022: Our work on way-conflict based cache attacks got accepted in [MICRO'22](https://www.microarch.org/micro55/).
 
 06/2022: The code of adversarial prefetch is available on [github](https://github.com/PittECEArch/AdversarialPrefetch) now.
