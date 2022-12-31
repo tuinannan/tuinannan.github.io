@@ -64,7 +64,7 @@ url = "mailto:yag45@pitt.edu"
   [[menu.main]]
     name = "Talks"
     weight = 300
-    identifier = "research"
+    identifier = "talks"
     url = "/talks/"
 
 
