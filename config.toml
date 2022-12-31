@@ -62,10 +62,10 @@ url = "mailto:yag45@pitt.edu"
     url = "/publications/"
  
   [[menu.main]]
-    name = "Research"
+    name = "Talks"
     weight = 300
     identifier = "research"
-    url = "/research/"
+    url = "/talks/"
 
 
   [[menu.main]]
