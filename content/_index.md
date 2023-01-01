@@ -26,7 +26,7 @@ quantum computers.
 ---
 ### Recent News  
 
-12/2022: I gave a talk on side channel attacks at the Southeast University.
+12/2022: I gave a talk on side channel attacks at Southeast University.
 
 09/2022: Our work on defending bit flip attacks got accepted in [IEEE Transactions on Computers](https://www.computer.org/csdl/journal/tc/).
 
