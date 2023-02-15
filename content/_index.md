@@ -26,6 +26,8 @@ quantum computers.
 ---
 ### Recent News  
 
+02/2023: [Our work](https://ieeexplore.ieee.org/abstract/document/9911180) has been selected as the Featured Paper in the February 2023 issue of IEEE TC.
+
 12/2022: I gave a talk on side channel attacks at Southeast University.
 
 09/2022: Our work on defending bit flip attacks got accepted in [IEEE Transactions on Computers](https://www.computer.org/csdl/journal/tc/).
