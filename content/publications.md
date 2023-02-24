@@ -2,11 +2,10 @@
 **<span style="color:DarkRed">(DAC'23)</span>**
 
 [J] Liang Liu, **Yanan Guo**, Yueqiang Cheng, Youtao Zhang, Jun Yang, *Generating Robust DNN with Resistance to Bit-Flip Based Adversarial Weight Attacks*. In IEEE Transactions on Computers. [<i class="far fa-file-pdf"></i>](/files/tc22.pdf)  
-**<span style="color:DarkRed">(TC)</span>**
+**<span style="color:DarkRed">(TC) <br> Featured Paper in the 02/23 issue of IEEE TC</span>**
 
 [C] **Yanan Guo**, Xin Xin, Youtao Zhang, Jun Yang, *Leaky Way: A Conflict-Based Cache Covert Channel Bypassing Set Associativity*. In Proceedings of the 55th IEEE/ACM International Symposium on Microarchitecture. [<i class="far fa-file-pdf"></i>](/files/micro22.pdf)  
 **<span style="color:DarkRed">(MICRO'22)</span>**
-**<span style="color:DarkRed">Featured Paper in the 02/23 issue of IEEE TC</span>**
 
 [C] **Yanan Guo**, Andrew Zigerelli, Youtao Zhang, Jun Yang, *Adversarial Prefetch: New Cross-Core Cache Side Channel Attacks*. In 2022 IEEE Symposium on Security and Privacy. [<i class="far fa-file-pdf"></i>](/files/oakland22.pdf)  
 **<span style="color:DarkRed">(S&P'22)</span>**
