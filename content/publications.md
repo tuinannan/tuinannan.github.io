@@ -1,3 +1,6 @@
+[C] Yingheng Li, Aditya Pawar, Mohadeseh Azari, **Yanan Guo**, Youtao Zhang, Jun Yang, Kaushik Parasuram Seshadreesan, Xulong Tang, *Orchestrating Measurement-Based Quantum Computation over Photonic Quantum Processors*. In Proceedings of the 60th Design Automation Conference. [<i class="far fa-file-pdf"></i>](/files/dac23.pdf)  
+**<span style="color:DarkRed">(DAC'23)</span>**
+
 [J] Liang Liu, **Yanan Guo**, Yueqiang Cheng, Youtao Zhang, Jun Yang, *Generating Robust DNN with Resistance to Bit-Flip Based Adversarial Weight Attacks*. In IEEE Transactions on Computers. [<i class="far fa-file-pdf"></i>](/files/tc22.pdf)  
 **<span style="color:DarkRed">(TC)</span>**
 
