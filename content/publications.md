@@ -1,3 +1,6 @@
+[C] Liang Liu, **Yanan Guo**, Youtao Zhang, Jun Yang, *Understanding and Defending Patch-based Adversarial Attacks for Vision Transformer*. In International Conference of Machine Learning. [<i class="far fa-file-pdf"></i>](/files/icml23.pdf)  
+**<span style="color:DarkRed">(ICML'23)</span>**
+
 [C] Yingheng Li, Aditya Pawar, Mohadeseh Azari, **Yanan Guo**, Youtao Zhang, Jun Yang, Kaushik Parasuram Seshadreesan, Xulong Tang, *Orchestrating Measurement-Based Quantum Computation over Photonic Quantum Processors*. In Proceedings of the 60th Design Automation Conference. [<i class="far fa-file-pdf"></i>](/files/dac23.pdf)  
 **<span style="color:DarkRed">(DAC'23)</span>**
 
