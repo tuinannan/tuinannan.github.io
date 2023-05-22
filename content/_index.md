@@ -48,7 +48,8 @@ quantum computers.
 <summary> Click to unfold
 </summary>
 
-10/2021: Our work on data prefetching based cache side channel attacks is now available on arxiv [<i class="fas fa-link"></i>](https://arxiv.org/abs/2110.12340) (code release coming soon).
+10/2021: Our work on data prefetching based cache side channel attacks is now available on arxiv [<i class="fas fa-link"></i>](https://arxiv.org/abs/2110.12340) 
+(code release coming soon).
 
 10/2021: Our work on accelerating quantum computing simulation is accepted to [HPCA'22](https://hpca-conf.org/2022/).
 
