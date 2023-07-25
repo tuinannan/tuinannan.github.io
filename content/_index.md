@@ -26,7 +26,7 @@ quantum computers.
 ---
 ### Recent News  
 
-07/2023: Our work on uncore covert channels is accepted to MICRO'23.
+07/2023: Two papers are accepted to MICRO'23.
 
 04/2023: Our work on defending adversarial attacks is accepted to ICML'23.
 
