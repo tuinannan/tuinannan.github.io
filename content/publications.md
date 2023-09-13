@@ -1,3 +1,9 @@
+[C] **Yanan Guo**, Dingyuan Cao, Xin Xin, Youtao Zhang, and Jun Yang *Uncore Encore: Covert Channels Exploiting Uncore Frequency Scaling*. In Proceedings of the 56th IEEE/ACM International Symposium on Microarchitecture. [<i class="far fa-file-pdf"></i>](/files/micro23.pdf)  
+**<span style="color:DarkRed">(MICRO'23)</span>**
+
+[C] Bingyao Li, **Yanan Guo**, Yueqi Wang, Aamer Jaleel, Jun Yang, and Xulong Tang *IDYLL: Enhancing Page Translation in Multi-GPUs via Light Weight PTE Invalidations*. In Proceedings of the 56th IEEE/ACM International Symposium on Microarchitecture. [<i class="far fa-file-pdf"></i>](/files/micro23.pdf)  
+**<span style="color:DarkRed">(MICRO'23)</span>**
+
 [C] Liang Liu, **Yanan Guo**, Youtao Zhang, Jun Yang, *Understanding and Defending Patch-based Adversarial Attacks for Vision Transformer*. In International Conference of Machine Learning. [<i class="far fa-file-pdf"></i>](/files/icml23.pdf)  
 **<span style="color:DarkRed">(ICML'23)</span>**
 
