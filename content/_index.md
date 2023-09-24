@@ -3,7 +3,7 @@
 
 ## Yanan (Yaya) Guo
 
-Hi there! I am currently a fourth-year PhD student at the [University of
+Hi there! I am currently a PhD student at the [University of
 Pittsburgh](https://www.pitt.edu), working with my advisor [Dr. Jun
 Yang](https://sites.pitt.edu/~juy9/) in the Electrical and Computer Engineering
 Department. I graduated from [Xidian University](https://www.xidian.edu.cn/) in
