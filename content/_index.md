@@ -26,6 +26,8 @@ quantum computers.
 ---
 ### Recent News  
 
+09/2023: I will be serving on the Program Committee for SEED 2024, please consider to submit!
+
 07/2023: Two papers are accepted to MICRO'23.
 
 04/2023: Our work on defending adversarial attacks is accepted to ICML'23.
