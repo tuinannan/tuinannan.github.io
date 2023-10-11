@@ -9,15 +9,10 @@ Yang](https://sites.pitt.edu/~juy9/) in the Electrical and Computer Engineering
 Department. I graduated from [Xidian University](https://www.xidian.edu.cn/) in
 2018 with a B.S. in Telecommunications Engineering.
 
-My research interests lie in the areas of computer architecture and security, with a focus on side channel security and memory safety. 
 
-<!---
-Topics of Research & My Major Contributions:  
-**Side channel attacks:** proposed three new CPU side channels and countermeasures.  
-**Memory safety:** proved the feasibility of CUDA code injection and ROP attacks.  
-**Memory integrity:** proposed a hardware design and a software design for integrity protection.  
---->
-
+My research interests lie in the areas of computer architecture and security,
+with a focus on memory attacks and defenses, ML attacks and defenses, and
+quantum computers.
 
 ---
 ### Contact Info
@@ -42,5 +37,19 @@ Topics of Research & My Major Contributions:
 **05/2022:** Started an internship at NVIDIA, will be working on offensive hardware security research.  
 **03/2022:** Our work on data prefetching based cache side channel attacks is accepted to [**<span style="color: red;">S&P'22</span>**](https://www.ieee-security.org/TC/SP2022/index.html).  
 **02/2022:** Our work on attacking the adaptive line control systems is accepted to [**<span style="color: red;">AutoSec'22</span>**](https://www.ndss-symposium.org/ndss2022/cfp-autosec-workshop/).  
-**...**
+<details>
+<summary> Click to unfold
+</summary>
+
+**10/2021:** Our work on prefetch based cache side channel attacks is now available on arxiv. [<i class="fas fa-link"></i>](https://arxiv.org/abs/2110.12340)  
+**10/2021:** Our work on accelerating quantum computing simulation is accepted to [HPCA'22](https://hpca-conf.org/2022/).  
+**08/2021:** Our work on defending bit-flip adversarial weight attacks is accepted to [ICCD'21](https://www.iccd-conf.com/Home.html).  
+**08/2021:** Our work on attacking adaptive cruise control systems is accepted to [ICCV Workshop'21](https://iccv21-adv-workshop.github.io/).  
+**08/2021:** Our work on optimizing memory integrity protection is accepted to [SEED'21](https://seed-symposium.org/).  
+**08/2021:** Finished my internship at NIO.  
+**07/2021:** Our work on accelerating strided memory accesses is accepted to [MICRO'21](https://www.microarch.org/micro54/).  
+**04/2021:** Our work on defending cache side channel attacks is accepted to [GLSVLSI'21](https://www.glsvlsi.org/).  
+**02/2021:** Started an internship at NIO, will be working on In-vehicle ML security.  
+**06/2020:** Successfully defended my MS thesis: [New Cache Attacks and Defenses](http://d-scholarship.pitt.edu/38323/).
+</details>
 

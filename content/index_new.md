@@ -8,15 +8,13 @@ Pittsburgh](https://www.pitt.edu), working with my advisor [Dr. Jun
 Yang](https://sites.pitt.edu/~juy9/) in the Electrical and Computer Engineering
 Department. I graduated from [Xidian University](https://www.xidian.edu.cn/) in
 2018 with a B.S. in Telecommunications Engineering.
+My research interests lie in the areas of computer architecture and security.
 
-My research interests lie in the areas of computer architecture and security, with a focus on side channel security and memory safety. 
-
-<!---
-Topics of Research & My Major Contributions:  
+Topics I have focused on and my major contributions:  
 **Side channel attacks:** proposed three new CPU side channels and countermeasures.  
 **Memory safety:** proved the feasibility of CUDA code injection and ROP attacks.  
 **Memory integrity:** proposed a hardware design and a software design for integrity protection.  
---->
+
 
 
 ---
