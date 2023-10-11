@@ -33,6 +33,31 @@ My research interest lies in the areas of computer architecture and security, wi
     
     <item>
       <title></title>
+      <link>http://yananguo.com/index_bpp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://yananguo.com/index_bpp/</guid>
+      
+        <description>Yanan (Yaya) Guo Hi there! I am currently a PhD student at the University of Pittsburgh, working with my advisor Dr. Jun Yang in the Electrical and Computer Engineering Department. I graduated from Xidian University in 2018 with a B.S. in Telecommunications Engineering.
+My research interests lie in the areas of computer architecture and security, with a focus on memory attacks and defenses, ML attacks and defenses, and quantum computers.</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://yananguo.com/index_new/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://yananguo.com/index_new/</guid>
+      
+        <description>Yanan (Yaya) Guo Hi there! I am currently a PhD student at the University of Pittsburgh, working with my advisor Dr. Jun Yang in the Electrical and Computer Engineering Department. I graduated from Xidian University in 2018 with a B.S. in Telecommunications Engineering. My research interests lie in the areas of computer architecture and security.
+Topics I have focused on and my major contributions:
+Side channel attacks: proposed three new CPU side channels and countermeasures.</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
       <link>http://yananguo.com/lucky/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -60,9 +85,9 @@ My research interest lies in the areas of computer architecture and security, wi
       
       <guid>http://yananguo.com/publications/</guid>
       
-        <description>[C] Yanan Guo, Dingyuan Cao, Xin Xin, Youtao Zhang, and Jun Yang Uncore Encore: Covert Channels Exploiting Uncore Frequency Scaling. In Proceedings of the 56th IEEE/ACM International Symposium on Microarchitecture. (MICRO&#39;23)
-[C] Bingyao Li, Yanan Guo, Yueqi Wang, Aamer Jaleel, Jun Yang, and Xulong Tang IDYLL: Enhancing Page Translation in Multi-GPUs via Light Weight PTE Invalidations. In Proceedings of the 56th IEEE/ACM International Symposium on Microarchitecture. (MICRO&#39;23)
-[C] Liang Liu, Yanan Guo, Youtao Zhang, Jun Yang, Understanding and Defending Patch-based Adversarial Attacks for Vision Transformer.</description>
+        <description>[C11] Yanan Guo, Dingyuan Cao, Xin Xin, Youtao Zhang, and Jun Yang Uncore Encore: Covert Channels Exploiting Uncore Frequency Scaling. In Proceedings of the 56th IEEE/ACM International Symposium on Microarchitecture. (MICRO&#39;23)
+[C10] Bingyao Li, Yanan Guo, Yueqi Wang, Aamer Jaleel, Jun Yang, and Xulong Tang IDYLL: Enhancing Page Translation in Multi-GPUs via Light Weight PTE Invalidations. In Proceedings of the 56th IEEE/ACM International Symposium on Microarchitecture. (MICRO&#39;23)
+[C9] Liang Liu, Yanan Guo, Youtao Zhang, Jun Yang, Understanding and Defending Patch-based Adversarial Attacks for Vision Transformer.</description>
       
     </item>
     
