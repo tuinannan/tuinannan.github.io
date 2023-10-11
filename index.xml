@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yaya Guo&#39;s Site</title>
-    <link>http://yayaguo.net/</link>
+    <link>http://yananguo.com/</link>
     <description>Recent content on Yaya Guo&#39;s Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://yayaguo.net/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://yananguo.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>http://yayaguo.net/cheat_sheet/</link>
+      <link>http://yananguo.com/cheat_sheet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://yayaguo.net/cheat_sheet/</guid>
+      <guid>http://yananguo.com/cheat_sheet/</guid>
       
         <description>Markdown Cheat Sheet Thanks for visiting The Markdown Guide!
 This Markdown cheat sheet provides a quick overview of all the Markdown syntax elements. It can’t cover every edge case, so if you need more information about any of these elements, refer to the reference guides for basic syntax and extended syntax.
@@ -21,10 +21,10 @@ Basic Syntax These are the elements outlined in John Gruber’s original design 
     
     <item>
       <title></title>
-      <link>http://yayaguo.net/index_backup/</link>
+      <link>http://yananguo.com/index_backup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://yayaguo.net/index_backup/</guid>
+      <guid>http://yananguo.com/index_backup/</guid>
       
         <description>Yanan (Yaya) Guo Hi there! I am currently a third-year PhD student at the University of Pittsburgh, working with my advisor Dr. Jun Yang in the Electrical and Computer Engineering Department. I graduated from Xidian University in 2018 with a B.S. in whatever.
 My research interest lies in the areas of computer architecture and security, with a focus on memory attacks and defenses, ML attacks and defenses, and quantum computer.</description>
@@ -33,10 +33,10 @@ My research interest lies in the areas of computer architecture and security, wi
     
     <item>
       <title></title>
-      <link>http://yayaguo.net/lucky/</link>
+      <link>http://yananguo.com/lucky/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://yayaguo.net/lucky/</guid>
+      <guid>http://yananguo.com/lucky/</guid>
       
         <description>Here is Lucky Guo </description>
       
@@ -44,10 +44,10 @@ My research interest lies in the areas of computer architecture and security, wi
     
     <item>
       <title></title>
-      <link>http://yayaguo.net/publication/</link>
+      <link>http://yananguo.com/publication/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://yayaguo.net/publication/</guid>
+      <guid>http://yananguo.com/publication/</guid>
       
         <description>[C] Yanan Guo, Liang Liu, Yueqiang Cheng, Youtao Zhang, and Jun Yang, ModelShield: A Generic and Portable Framework Extension for Defending Bit-Flip based Adversarial Weight Attacks. In Proceedings of the 39th IEEE International Conference on Computer Design (ICCD&#39;21). [C] Yanan Guo, Christopher Dipalma, Takami Sato, Yulong Cal, Alfred Chen, and Yueqiang Cheng, An Adversarial Attack on DNN-based Adaptive Cruise Control Systems. (ICCV&#39;21 Workshop). [C] Yanan Guo, Andrew Zigerelli, Yueqiang Cheng, Youtao Zhang, and Jun Yang, Performance-Enhanced Integrity Verification for Large Memories.</description>
       
@@ -55,10 +55,10 @@ My research interest lies in the areas of computer architecture and security, wi
     
     <item>
       <title></title>
-      <link>http://yayaguo.net/publications/</link>
+      <link>http://yananguo.com/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://yayaguo.net/publications/</guid>
+      <guid>http://yananguo.com/publications/</guid>
       
         <description>[C] Yanan Guo, Dingyuan Cao, Xin Xin, Youtao Zhang, and Jun Yang Uncore Encore: Covert Channels Exploiting Uncore Frequency Scaling. In Proceedings of the 56th IEEE/ACM International Symposium on Microarchitecture. (MICRO&#39;23)
 [C] Bingyao Li, Yanan Guo, Yueqi Wang, Aamer Jaleel, Jun Yang, and Xulong Tang IDYLL: Enhancing Page Translation in Multi-GPUs via Light Weight PTE Invalidations. In Proceedings of the 56th IEEE/ACM International Symposium on Microarchitecture. (MICRO&#39;23)
@@ -68,10 +68,10 @@ My research interest lies in the areas of computer architecture and security, wi
     
     <item>
       <title></title>
-      <link>http://yayaguo.net/research/</link>
+      <link>http://yananguo.com/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://yayaguo.net/research/</guid>
+      <guid>http://yananguo.com/research/</guid>
       
         <description>12/2022 Cache Side Channel Attacks on Modern Processors. At the Southeast University. 10/2022 Leaky Way: A Conflict-Based Cache Covert Channel Bypassing Set Associativity. At MICRO&#39;22. 06/2022 Adversarial Prefetch: New Cross-Core Cache Side Channel Attacks. At Nvidia. 05/2022 Adversarial Prefetch: New Cross-Core Cache Side Channel Attacks. At Oakland&#39;22. 02/2022 Q-GPU: A Recipe of Optimizations for Quantum Circuit Simulation Using GPUs. At HPCA&#39;22. 10/2021 ModelShield: A Generic and Portable Framework Extension for Defending Bit-Flip based Adversarial Weight Attacks.</description>
       
@@ -79,10 +79,10 @@ My research interest lies in the areas of computer architecture and security, wi
     
     <item>
       <title></title>
-      <link>http://yayaguo.net/talks/</link>
+      <link>http://yananguo.com/talks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://yayaguo.net/talks/</guid>
+      <guid>http://yananguo.com/talks/</guid>
       
         <description>12/2022: Cache Side Channel Attacks on Modern Processors. At the Southeast University. 10/2022: Leaky Way: A Conflict-Based Cache Covert Channel Bypassing Set Associativity. At MICRO&#39;22. 06/2022: Adversarial Prefetch: New Cross-Core Cache Side Channel Attacks. At Nvidia. 05/2022: Adversarial Prefetch: New Cross-Core Cache Side Channel Attacks. At Oakland&#39;22. 02/2022: Q-GPU: A Recipe of Optimizations for Quantum Circuit Simulation Using GPUs. At HPCA&#39;22. 10/2021: ModelShield: A Generic and Portable Framework Extension for Defending Bit-Flip based Adversarial Weight Attacks.</description>
       

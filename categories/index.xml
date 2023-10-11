@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Yaya Guo&#39;s Site</title>
-    <link>http://yayaguo.net/categories/</link>
+    <link>http://yananguo.com/categories/</link>
     <description>Recent content in Categories on Yaya Guo&#39;s Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="http://yayaguo.net/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://yananguo.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
