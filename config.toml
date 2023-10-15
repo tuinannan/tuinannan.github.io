@@ -11,6 +11,7 @@ profilePicture = "images/yanan4.jpg"
 contentratio = 0.68
 mainsections=[]
 customCss = ["https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css"]
+gtagId = "G-3LQMS3R0X"
 googleAnalytics = "G-3LQMS3R0X"
 
 
