@@ -11,6 +11,8 @@ Department. I graduated from [Xidian University](https://www.xidian.edu.cn/) in
 
 My research interests lie in the areas of computer architecture and security, with a focus on side channel security and memory safety. 
 
+**<span style="color: green;">I am on the academic job market!</span>**
+
 <!---
 Topics of Research & My Major Contributions:  
 **Side channel attacks:** proposed three new CPU side channels and countermeasures.  
