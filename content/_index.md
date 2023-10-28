@@ -1,7 +1,7 @@
 
 
 
-## Yanan (Yaya) Guo
+## Yanan Guo
 
 Hi there! I am currently a PhD student at the [University of
 Pittsburgh](https://www.pitt.edu), working with my advisor [Dr. Jun
