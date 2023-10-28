@@ -1,11 +1,11 @@
 baseURL = "http://yananguo.com"
 languageCode = "en-us"
-title = "Yaya Guo's Site"
+title = "Yanan Guo's Site"
 theme = "anatole"
 
 [params]
 title = "Yanan Guo"
-author = "Yaya Guo"
+author = "Yanan Guo"
 description = "<center>郭雅楠</center>"
 profilePicture = "images/yanan4.jpg"
 contentratio = 0.68
