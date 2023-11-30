@@ -85,9 +85,16 @@ Side channel attacks: proposed three new CPU side channels and countermeasures.<
       
       <guid>http://yananguo.com/publications/</guid>
       
-        <description>[C11] Yanan Guo, Dingyuan Cao, Xin Xin, Youtao Zhang, and Jun Yang Uncore Encore: Covert Channels Exploiting Uncore Frequency Scaling. In Proceedings of the 56th IEEE/ACM International Symposium on Microarchitecture. (MICRO&#39;23)
-[C10] Bingyao Li, Yanan Guo, Yueqi Wang, Aamer Jaleel, Jun Yang, and Xulong Tang IDYLL: Enhancing Page Translation in Multi-GPUs via Light Weight PTE Invalidations. In Proceedings of the 56th IEEE/ACM International Symposium on Microarchitecture. (MICRO&#39;23)
-[C9] Liang Liu, Yanan Guo, Youtao Zhang, Jun Yang, Understanding and Defending Patch-based Adversarial Attacks for Vision Transformer.</description>
+        <description>Uncore Encore: Covert Channels Exploiting Uncore Frequency Scaling
+Yanan Guo, Dingyuan Cao, Xin Xin, Youtao Zhang, and Jun Yang
+56th IEEE/ACM International Symposium on Microarchitecture.
+(MICRO&#39;23)
+IDYLL: Enhancing Page Translation in Multi-GPUs via Light Weight PTE Invalidations
+Bingyao Li, Yanan Guo, Yueqi Wang, Aamer Jaleel, Jun Yang, and Xulong Tang
+56th IEEE/ACM International Symposium on Microarchitecture.
+(MICRO&#39;23)
+Understanding and Defending Patch-based Adversarial Attacks for Vision Transformer
+Liang Liu, Yanan Guo, Youtao Zhang, Jun Yang</description>
       
     </item>
     
@@ -109,7 +116,21 @@ Side channel attacks: proposed three new CPU side channels and countermeasures.<
       
       <guid>http://yananguo.com/talks/</guid>
       
-        <description>12/2022: Cache Side Channel Attacks on Modern Processors. At the Southeast University. 10/2022: Leaky Way: A Conflict-Based Cache Covert Channel Bypassing Set Associativity. At MICRO&#39;22. 06/2022: Adversarial Prefetch: New Cross-Core Cache Side Channel Attacks. At Nvidia. 05/2022: Adversarial Prefetch: New Cross-Core Cache Side Channel Attacks. At Oakland&#39;22. 02/2022: Q-GPU: A Recipe of Optimizations for Quantum Circuit Simulation Using GPUs. At HPCA&#39;22. 10/2021: ModelShield: A Generic and Portable Framework Extension for Defending Bit-Flip based Adversarial Weight Attacks.</description>
+        <description>Leaky Hardware: Side Channel Attacks on Modern Processors
+-ByteDance
+Adversarial Prefetch: New Cross-Core Cache Side Channel Attacks
+-Top Picks in Hardware and Embedded Security
+-Nvidia
+-Oakland&#39;22
+Cache Side Channel Attacks on Modern Processors
+-Southeast University
+-University of Pittsburgh
+Leaky Way: A Conflict-Based Cache Covert Channel Bypassing Set Associativity
+-MICRO&#39;22
+Adversarial Attacks on DNN-based Adaptive Cruise Control Systems
+-SafeThings&#39;23
+-NIO
+Q-GPU: A Recipe of Optimizations for Quantum Circuit Simulation Using GPUs</description>
       
     </item>
     
