@@ -33,16 +33,16 @@ Topics of Research & My Major Contributions:
 ---
 ### Recent News  
 
-**09/2023:** I will be serving on the Program Committee for **<span style="color: red;">SEED'24</span>**, please consider to submit!  
-**07/2023:** Two papers are accepted to **<span style="color: red;">MICRO'23</span>**.  
-**04/2023:** Our work on defending adversarial attacks is accepted to **<span style="color: red;"> ICML'23</span>**  
-**02/2023:** Our paper has been selected as **<span style="color: red;">TC Featured Paper of the Month</span>**.  
+**09/2023:** I will be serving on the Program Committee for **<span style="color: #cc0000;">SEED'24</span>**, please consider to submit!  
+**07/2023:** Two papers are accepted to **<span style="color: #cc0000;">MICRO'23</span>**.  
+**04/2023:** Our paper on defending adversarial attacks is accepted to **<span style="color: #cc0000;"> ICML'23</span>**  
+**02/2023:** Our paper has been selected as **<span style="color: #cc0000;">TC Featured Paper of the Month</span>**.  
 **12/2022:** I gave a talk on side channel attacks at Southeast University.  
-**09/2022:** Our work on defending bit flip attacks is accepted to [**<span style="color: red;">IEEE Transactions on Computers**](https://www.computer.org/csdl/journal/tc/).</span>  
-**07/2022:** Our work on way-conflict based cache attacks is accepted to [**<span style="color: red;">MICRO'22**](https://www.microarch.org/micro55/)</span>.  
+**09/2022:** Our paper on defending bit flip attacks is accepted to [**<span style="color: #cc0000;">IEEE Transactions on Computers**](https://www.computer.org/csdl/journal/tc/).</span>  
+**07/2022:** Our paper on way-conflict based cache attacks is accepted to [**<span style="color: #cc0000;">MICRO'22**](https://www.microarch.org/micro55/)</span>.  
 **06/2022:** The code of adversarial prefetch is available on [github](https://github.com/PittECEArch/AdversarialPrefetch) now.  
 **05/2022:** Started an internship at NVIDIA, will be working on offensive hardware security research.  
-**03/2022:** Our work on data prefetching based cache side channel attacks is accepted to [**<span style="color: red;">S&P'22</span>**](https://www.ieee-security.org/TC/SP2022/index.html).  
-**02/2022:** Our work on attacking the adaptive line control systems is accepted to [**<span style="color: red;">AutoSec'22</span>**](https://www.ndss-symposium.org/ndss2022/cfp-autosec-workshop/).  
+**03/2022:** Our paper on data prefetching based cache side channel attacks is accepted to [**<span style="color: #cc0000;">S&P'22</span>**](https://www.ieee-security.org/TC/SP2022/index.html).  
+**02/2022:** Our paper on attacking the adaptive line control systems is accepted to [**<span style="color: #cc0000;">AutoSec'22</span>**](https://www.ndss-symposium.org/ndss2022/cfp-autosec-workshop/).  
 **...**
 
