@@ -11,15 +11,15 @@ Department. I graduated from [Xidian University](https://www.xidian.edu.cn/) in
 
 My research interests lie in the areas of computer architecture and security, with a focus on side channel security and memory safety. 
 
+
+**Research Highlights:**  
+Cache Coherence Attacks  **<a href="files/oakland22.pdf" style="color: #464646"> [Oakland'22]</a>**  
+Cache Conflict Attacks  **<a href="files/micro22.pdf" style="color: #464646"> [MICRO'22]</a>**  
+Uncore Frequency Scaling Attacks  **<a href="files/micro23.pdf" style="color: #464646"> [MICRO'23]</a>**  
+GPU ROP Attacks  **<a href="files/rop.pdf" style="color: #464646"> [To appear]</a>**  
+
+
 **<span style="color: green;">I am on the academic job market! <a href="files/Yanan_CV_new.pdf" style="color: green"> [CV]</a> </span>**   
-
-<!---
-Topics of Research & My Major Contributions:  
-**Side channel attacks:** proposed three new CPU side channels and countermeasures.  
-**Memory safety:** proved the feasibility of CUDA code injection and ROP attacks.  
-**Memory integrity:** proposed a hardware design and a software design for integrity protection.  
---->
-
 
 ---
 ### Contact Info
