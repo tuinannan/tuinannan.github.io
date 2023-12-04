@@ -15,7 +15,7 @@
 
 4. **[Orchestrating Measurement-Based Quantum Computation over Photonic Quantum Processors](files/dac23.pdf)**  
    Yingheng Li, Aditya Pawar, Mohadeseh Azari, **Yanan Guo**, Youtao Zhang, Jun Yang, Kaushik Parasuram Seshadreesan, Xulong Tang  
-   Proceedings of the 60th Design Automation Conference.   
+   60th Design Automation Conference.   
    **<span style="color:red">(DAC'23)</span>** 
 
 5. **[Generating Robust DNN with Resistance to Bit-Flip Based Adversarial Weight Attacks](files/tc22.pdf)**  
@@ -25,7 +25,7 @@
 
 6. **[Leaky Way: A Conflict-Based Cache Covert Channel Bypassing Set Associativity](files/micro22.pdf)**  
    **Yanan Guo**, Xin Xin, Youtao Zhang, Jun Yang  
-   Proceedings of the 55th IEEE/ACM International Symposium on Microarchitecture.   
+   55th IEEE/ACM International Symposium on Microarchitecture.   
    **<span style="color:red">(MICRO'22)</span>**
 
 7. **[Adversarial Prefetch: New Cross-Core Cache Side Channel Attacks](files/oakland22.pdf)**  
@@ -36,12 +36,12 @@
 
 8. **[Q-GPU: A Recipe of Optimizations for Quantum Circuit Simulation Using GPUs](files/hpca22.pdf)**  
    Yilun Zhao, **Yanan Guo**, Yuan Yao, Amanda Dumi, Devin M Mulvey, Shiv Upadhyay, Youtao Zhang, Kenneth D Jordan, Jun Yang, Xulong Tang  
-   Proceedings of the 28th IEEE International Symposium on High-Performance Computer Architecture.   
+   28th IEEE International Symposium on High-Performance Computer Architecture.   
    **<span style="color:red">(HPCA'22)</span>**
 
 9. **[ModelShield: A Generic and Portable Framework Extension for Defending Bit-Flip based Adversarial Weight Attacks](files/iccd21.pdf)**  
    **Yanan Guo**, Liang Liu, Yueqiang Cheng, Youtao Zhang, and Jun Yang  
-   Proceedings of the 39th IEEE International Conference on Computer Design.   
+   39th IEEE International Conference on Computer Design.   
    **<span style="color:red">(ICCD'21)</span>**
 
 10. **[An Adversarial Attack on DNN-based Adaptive Cruise Control Systems](files/iccv21.pdf)**  
@@ -51,17 +51,17 @@
 
 11. **[Performance-Enhanced Integrity Verification for Large Memories](files/seed21.pdf)** 
     **Yanan Guo**, Andrew Zigerelli, Yueqiang Cheng, Youtao Zhang, and Jun Yang 
-    Proceedings of the 1st IEEE International Symposium on Secure and Private Execution Environment Design.   
+    1st IEEE International Symposium on Secure and Private Execution Environment Design.   
     **<span style="color:red">(SEED'21)</span>**
 
 12. **[SAM: Accelerating Strided Memory Accesses](files/micro21.pdf)**  
     Xin Xin, **Yanan Guo**, Youtao Zhang, and Jun Yang  
-    Proceedings of the 54th IEEE/ACM International Symposium on Microarchitecture.   
+    54th IEEE/ACM International Symposium on Microarchitecture.   
     **<span style="color:red">(MICRO'21)</span>**
 
 13. **[IVcache: Defending Cache Side Channel Attacks via Invisible Accesses](files/glsvlsi21.pdf)**  
     **Yanan Guo**, Andrew Zigerelli, Youtao Zhang, and Jun Yang  
-    Proceedings of the 2021 on Great Lakes Symposium on VLSI.   
+     31st Great Lakes Symposium on VLSI.   
     **<span style="color:red">(GLSVLSI'21)</span>**
 
 
