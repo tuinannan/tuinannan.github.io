@@ -12,7 +12,7 @@ Department. I graduated from [Xidian University](https://www.xidian.edu.cn/) in
 My research interests lie in the areas of computer architecture and security, with a focus on side channel security and memory safety. 
 
 
-**Research Highlights:**  
+**<span style="color: #cc0000">Research Highlights:</span>**  
 Cache Coherence Attacks  **<a href="files/oakland22.pdf" style="color: #464646"> [Oakland'22]</a>**  
 Cache Conflict Attacks  **<a href="files/micro22.pdf" style="color: #464646"> [MICRO'22]</a>**  
 Uncore Frequency Scaling Attacks  **<a href="files/micro23.pdf" style="color: #464646"> [MICRO'23]</a>**  
