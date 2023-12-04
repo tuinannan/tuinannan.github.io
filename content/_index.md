@@ -11,7 +11,7 @@ Department. I graduated from [Xidian University](https://www.xidian.edu.cn/) in
 
 My research interests lie in the areas of computer architecture and security, with a focus on side channel security and memory safety. 
 
-**<span style="color: green;">I am on the academic job market!</span>**
+**<span style="color: green;">I am on the academic job market! <a href="files/Yanan_CV_new.pdf" style="color: green"> [CV]</a> </span>**   
 
 <!---
 Topics of Research & My Major Contributions:  
