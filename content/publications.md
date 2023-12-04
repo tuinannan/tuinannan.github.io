@@ -34,7 +34,7 @@
    **<span style="color:#cc0000">(S&P'22)</span>**  
    **<span style="color:#cc0000">Shortlisted for Top Picks in Hardware and Embeded Security 2023</span>**
 
-8. **<a href="/files/hpca22.pdf" style= "color: #464646"> Q-GPU: A Recipe of Optimizations for Quantum Circuit Simulation Using GPUs]</a>**  
+8. **<a href="/files/hpca22.pdf" style= "color: #464646"> Q-GPU: A Recipe of Optimizations for Quantum Circuit Simulation Using GPUs</a>**  
    Yilun Zhao, **Yanan Guo**, Yuan Yao, Amanda Dumi, Devin M Mulvey, Shiv Upadhyay, Youtao Zhang, Kenneth D Jordan, Jun Yang, Xulong Tang  
    *28th IEEE International Symposium on High-Performance Computer Architecture.*   
    **<span style="color:#cc0000">(HPCA'22)</span>**
