@@ -85,7 +85,8 @@ Side channel attacks: proposed three new CPU side channels and countermeasures.<
       
       <guid>http://yananguo.com/publications/</guid>
       
-        <description>Uncore Encore: Covert Channels Exploiting Uncore Frequency Scaling Yanan Guo, Dingyuan Cao, Xin Xin, Youtao Zhang, and Jun Yang
+        <description>Uncore Encore: Covert Channels Exploiting Uncore Frequency Scaling
+Yanan Guo, Dingyuan Cao, Xin Xin, Youtao Zhang, and Jun Yang
 56th IEEE/ACM International Symposium on Microarchitecture.
 (MICRO&#39;23)
 IDYLL: Enhancing Page Translation in Multi-GPUs via Light Weight PTE Invalidations Bingyao Li, Yanan Guo, Yueqi Wang, Aamer Jaleel, Jun Yang, and Xulong Tang
@@ -116,7 +117,7 @@ Understanding and Defending Patch-based Adversarial Attacks for Vision Transform
         <description>Leaky Hardware: Side Channel Attacks on Modern Processors
 -ByteDance
 Adversarial Prefetch: New Cross-Core Cache Side Channel Attacks
--Top Picks in Hardware and Embedded Security
+-Top Picks in Hardware and Embedded Security 2023
 -Nvidia
 -Oakland&#39;22
 Cache Side Channel Attacks on Modern Processors
@@ -127,6 +128,8 @@ Leaky Way: A Conflict-Based Cache Covert Channel Bypassing Set Associativity
 Adversarial Attacks on DNN-based Adaptive Cruise Control Systems
 -SafeThings&#39;23
 -NIO
+Prefetch-Based Cache Side Channel Attacks
+-CWIDCA&#39;22
 Q-GPU: A Recipe of Optimizations for Quantum Circuit Simulation Using GPUs</description>
       
     </item>
