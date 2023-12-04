@@ -5,21 +5,23 @@
 
 Hi there! I am currently a PhD student at the [University of
 Pittsburgh](https://www.pitt.edu), working with my advisor [Dr. Jun
-Yang](https://sites.pitt.edu/~juy9/) in the Electrical and Computer Engineering
-Department. I graduated from [Xidian University](https://www.xidian.edu.cn/) in
-2018 with a B.S. in Telecommunications Engineering.
+Yang](https://sites.pitt.edu/~juy9/) in the Department of Electrical and Computer Engineering. I graduated from [Xidian University](https://www.xidian.edu.cn/) in
+2018 with a B.S. in Engineering.
 
-My research interests lie in the areas of computer architecture and security, with a focus on side channel security and memory safety. 
+My research interests lie in computer architecture and cybersecurity, with a focus on the following areas:  
+<i class="fas fa-paperclip"></i> Microarchitectural side channels.  
+<i class="fas fa-paperclip"></i> Memory encryption and authentication.  
+<i class="fas fa-paperclip"></i> Memory exploits and defenses.
 
 
 **<span style="color: #cc0000">Research Highlights:</span>**  
-Cache Coherence Attacks  **<a href="files/oakland22.pdf" style="color: #464646"> [Oakland'22]</a>**  
-Cache Conflict Attacks  **<a href="files/micro22.pdf" style="color: #464646"> [MICRO'22]</a>**  
-Uncore Frequency Scaling Attacks  **<a href="files/micro23.pdf" style="color: #464646"> [MICRO'23]</a>**  
-GPU ROP Attacks  **<a href="files/rop.pdf" style="color: #464646"> [To appear]</a>**  
+<i class="fas fa-flag"></i> Cache Coherence Attacks  **<a href="files/oakland22.pdf" style="color: #464646"> [Oakland'22]</a>**  
+<i class="fas fa-flag"></i> Cache Conflict Attacks  **<a href="files/micro22.pdf" style="color: #464646"> [MICRO'22]</a>**  
+<i class="fas fa-flag"></i> Uncore Frequency Scaling Attacks  **<a href="files/micro23.pdf" style="color: #464646"> [MICRO'23]</a>**  
+<i class="fas fa-flag"></i> GPU ROP Attacks  **<a href="files/rop.pdf" style="color: #464646"> [To appear]</a>**  
 
 
-**<span style="color: green;">I am on the academic job market! <a href="files/Yanan_CV_new.pdf" style="color: green"> [CV]</a> </span>**   
+**<span style="color: green;">I am on the academic job market, please reach out for any opportunities! <a href="files/Yanan_CV_new.pdf" style="color: green"> [CV]</a> </span>**   
 
 ---
 ### Contact Info

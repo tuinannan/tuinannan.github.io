@@ -2,7 +2,7 @@
    -ByteDance
 
 2. **Adversarial Prefetch: New Cross-Core Cache Side Channel Attacks**  
-   -Top Picks in Hardware and Embedded Security  
+   -Top Picks in Hardware and Embedded Security 2023  
    -Nvidia  
    -Oakland'22
 3. **Cache Side Channel Attacks on Modern Processors**  
@@ -15,6 +15,9 @@
 5. **Adversarial Attacks on DNN-based Adaptive Cruise Control Systems**  
    -SafeThings'23  
    -NIO
+
+6. **Prefetch-Based Cache Side Channel Attacks**  
+   -CWIDCA'22
 
 6. **Q-GPU: A Recipe of Optimizations for Quantum Circuit Simulation Using GPUs**  
    -HPCA'22
