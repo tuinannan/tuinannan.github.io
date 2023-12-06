@@ -15,10 +15,10 @@ My research interests lie in computer architecture and cybersecurity, with a foc
 
 
 **<span style="color: #cc0000">Research Highlights:</span>**  
-<i class="fas fa-flag"></i> Cache Coherence Attacks  **<a href="files/oakland22.pdf" style="color: #464646"> [Oakland'22]</a>**  
-<i class="fas fa-flag"></i> Cache Conflict Attacks  **<a href="files/micro22.pdf" style="color: #464646"> [MICRO'22]</a>**  
-<i class="fas fa-flag"></i> Uncore Frequency Scaling Attacks  **<a href="files/micro23.pdf" style="color: #464646"> [MICRO'23]</a>**  
-<i class="fas fa-flag"></i> GPU ROP Attacks  **<a href="files/rop.pdf" style="color: #464646"> [To appear]</a>**  
+<i class="fas fa-flag"></i> HW: Cache Coherence Attacks  **<a href="files/oakland22.pdf" style="color: #464646"> [Oakland'22]</a>**  
+<i class="fas fa-flag"></i> HW: Cache Conflict Attacks  **<a href="files/micro22.pdf" style="color: #464646"> [MICRO'22]</a>**  
+<i class="fas fa-flag"></i> HW: Uncore Frequency Scaling Attacks  **<a href="files/micro23.pdf" style="color: #464646"> [MICRO'23]</a>**  
+<i class="fas fa-flag"></i> SW: GPU ROP Attacks  **<a href="files/rop.pdf" style="color: #464646"> [To appear]</a>**  
 
 
 **<span style="color: green;">I am on the academic job market, please reach out for any opportunities! <a href="files/Yanan_CV_new.pdf" style="color: green"> [CV]</a> </span>**   

@@ -1,3 +1,7 @@
+**<a href="/publications/" style="color: blue"> [Sorted by time] </a>**
+**<a href="/publications_field" style="color: blue"> [Sorted by topic] </a>**
+**<a href="/submission" style="color: blue"> [Under submission] </a>**
+
 1. **<a href="/files/micro23.pdf" style= "color: #464646"> <u>Uncore Encore: Covert Channels Exploiting Uncore Frequency Scaling</u>**</a>   
     **Yanan Guo**, Dingyuan Cao, Xin Xin, Youtao Zhang, and Jun Yang   
     *56th IEEE/ACM International Symposium on Microarchitecture*.  
