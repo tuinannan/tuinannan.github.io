@@ -1,5 +1,5 @@
 **<a href="/publications/" style="color: blue"> [Sorted by time] </a>**
-**<a href="/publications__field" style="color: blue"> [Sorted by topic] </a>**
+**<a href="/publications_field" style="color: blue"> [Sorted by topic] </a>**
 **<a href="/submission" style="color: blue"> [Under submission] </a>**
 
 
