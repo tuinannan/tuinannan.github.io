@@ -1,4 +1,0 @@
-[submodule "themes/anatole"]
-	path = themes/anatole
-	url = git@github.com:tuinannan/anatole.git
-	branch = master
