@@ -8,7 +8,7 @@
     Developted multiple GPU memory corruption attacks, including the first GPU return-oriented programming attack. 
 
 2. **<a href="/files/micro23_2.pdf" style= "color: #464646"><u> Invalidate+Compare: A Timer-Free GPU Cache Attack Primitive</u>**</a>  
-   Zhenkai Zhang, Kunbei Cai, **Yanan Guo**, Fan Yao, Xing Gao 
+   Zhenkai Zhang, Kunbei Cai, **Yanan Guo**, Fan Yao, Xing Gao  
    *Under submission*.  
    Developed the first timer-free GPU cache side-channel attack.
 
