@@ -21,7 +21,7 @@ My research interests lie in computer architecture and cybersecurity, with a foc
 <i class="fas fa-flag"></i> SW: GPU ROP Attacks  **<a href="submission" style="color: #464646"> [To appear]</a>**  
 
 
-**<span style="color: green;">I am on the academic job market. Please reach out for any opportunities! <a href="files/Yanan_CV_new.pdf" style="color: green"> [CV]</a> </span>**   
+**<span style="color: green;">I am on the academic job market. Please reach out for any opportunities! </span>**   
 
 ---
 ### Contact Info
@@ -35,6 +35,7 @@ My research interests lie in computer architecture and cybersecurity, with a foc
 ---
 ### Recent News  
 
+**03/2024:** Our paper on GPU side channels is accepted to **<span style="color: #cc0000;"> USENIX Security'23</span>**  
 **09/2023:** I will be serving on the Program Committee for **<span style="color: #cc0000;">SEED'24</span>**, please consider to submit!  
 **07/2023:** Two papers are accepted to **<span style="color: #cc0000;">MICRO'23</span>**.  
 **04/2023:** Our paper on defending adversarial attacks is accepted to **<span style="color: #cc0000;"> ICML'23</span>**  
