@@ -35,10 +35,10 @@ My research interests lie in computer architecture and cybersecurity, with a foc
 ---
 ### Recent News  
 
-**03/2024:** Our paper on GPU side channels is accepted to **<span style="color: #cc0000;"> USENIX Security'23</span>**  
+**03/2024:** Our paper on GPU side channels is accepted to **<span style="color: #cc0000;"> USENIX Security'24</span>**.  
 **09/2023:** I will be serving on the Program Committee for **<span style="color: #cc0000;">SEED'24</span>**, please consider to submit!  
 **07/2023:** Two papers are accepted to **<span style="color: #cc0000;">MICRO'23</span>**.  
-**04/2023:** Our paper on defending adversarial attacks is accepted to **<span style="color: #cc0000;"> ICML'23</span>**  
+**04/2023:** Our paper on defending adversarial attacks is accepted to **<span style="color: #cc0000;"> ICML'23</span>**.  
 **02/2023:** Our paper has been selected as **<span style="color: #cc0000;">TC Featured Paper of the Month</span>**.  
 **12/2022:** I gave a talk on side channel attacks at Southeast University.  
 **09/2022:** Our paper on defending bit flip attacks is accepted to [**<span style="color: #cc0000;">IEEE Transactions on Computers**](https://www.computer.org/csdl/journal/tc/).</span>  
