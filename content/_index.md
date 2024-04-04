@@ -35,6 +35,7 @@ My research interests lie in computer architecture and cybersecurity, with a foc
 ---
 ### Recent News  
 
+**04/2024:** Our paper on memory safety protection is accepted to **<span style="color: #cc0000;"> ICS'24</span>**.  
 **03/2024:** Our paper on GPU side channels is accepted to **<span style="color: #cc0000;"> USENIX Security'24</span>**.  
 **09/2023:** I will be serving on the Program Committee for **<span style="color: #cc0000;">SEED'24</span>**, please consider to submit!  
 **07/2023:** Two papers are accepted to **<span style="color: #cc0000;">MICRO'23</span>**.  
