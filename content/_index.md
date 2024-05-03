@@ -21,7 +21,7 @@ My research interests lie in computer architecture and cybersecurity, with a foc
 <i class="fas fa-flag"></i> SW: GPU ROP Attacks  **<a href="submission" style="color: #464646"> [To appear]</a>**  
 
 
-**<span style="color: green;">I am on the academic job market. Please reach out for any opportunities! </span>**   
+
 
 ---
 ### Contact Info
