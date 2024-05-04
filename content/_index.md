@@ -22,7 +22,6 @@ My research interests lie in computer architecture and cybersecurity, with a foc
 
 
 
-
 ---
 ### Contact Info
 
