@@ -21,6 +21,8 @@ My research interests lie in computer architecture and cybersecurity, with a foc
 <i class="fas fa-flag"></i> SW: GPU ROP Attacks  **<a href="submission" style="color: #464646"> [To appear]</a>**  
 
 
+**<span style="color: green">I will join the University of Rochester as an assistant professor in Fall 2024.</span>**  
+
 
 ---
 ### Contact Info
