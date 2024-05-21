@@ -3,11 +3,6 @@
 **<a href="/submission" style="color: blue"> [Under submission] </a>**
 
 
-1. **<a href="/files/ics24.pdf" style= "color: #464646"> <u>RTT: Reuse Time Tracking for Use-After-Free Detection</u>**</a>   
-    Yubo Du, **Yanan Guo**, Youtao Zhang, and Jun Yang   
-    *38th ACM International Conference on Supercomputing*.  
-    **<span style="color:#cc0000">(ICS'24)</span>** 
-
 1. **<a href="/files/usenix24.pdf" style= "color: #464646"> <u>Invalidate+Compare: A Timer-Free GPU Cache Attack Primitive</u>**</a>   
     Zhenkai Zhang, Kunbei Cai, **Yanan Guo**, Fan Yao, and Xing Gao   
     *33rd USENIX Security Symposium*.  
