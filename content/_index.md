@@ -1,12 +1,12 @@
 
 
 
-## Yanan Guo
+## Yanan (Yaya) Guo
 
 Hi there! I am currently a PhD student at the [University of
 Pittsburgh](https://www.pitt.edu), working with my advisor [Dr. Jun
 Yang](https://sites.pitt.edu/~juy9/) in the Department of Electrical and Computer Engineering. I graduated from [Xidian University](https://www.xidian.edu.cn/) in
-2018 with a B.S. in Engineering.
+2018 with a Bachelor's degree in Engineering.
 
 My research interests lie in computer architecture and cybersecurity, with a focus on the following areas:  
 <i class="fas fa-paperclip"></i> Microarchitectural side channels.  
