@@ -18,7 +18,7 @@ My research interests lie in computer architecture and cybersecurity, with a foc
 <i class="fas fa-flag"></i> HW: Cache Coherence Attacks  **<a href="files/oakland22.pdf" style="color: #464646"> [Oakland'22]</a>**  
 <i class="fas fa-flag"></i> HW: Cache Conflict Attacks  **<a href="files/micro22.pdf" style="color: #464646"> [MICRO'22]</a>**  
 <i class="fas fa-flag"></i> HW: Uncore Frequency Scaling Attacks  **<a href="files/micro23.pdf" style="color: #464646"> [MICRO'23]</a>**  
-<i class="fas fa-flag"></i> SW: GPU ROP Attacks  **<a href="submission" style="color: #464646"> [To appear]</a>**  
+<i class="fas fa-flag"></i> SW: GPU ROP Attacks  **<a href="submission" style="color: #464646"> [USENIX Seurity'24]</a>**  
 
 
 **<span style="color: green">I will join the University of Rochester as an assistant professor in Fall 2024.</span>**  
@@ -35,7 +35,7 @@ My research interests lie in computer architecture and cybersecurity, with a foc
 
 ---
 ### Recent News  
-
+**06/2024:** Our paper on GPU memory corruption attacks is accepted to **<span style="color: #cc0000;"> USENIX Security'24</span>**. 
 **04/2024:** Our paper on memory safety protection is accepted to **<span style="color: #cc0000;"> ICS'24</span>**.  
 **03/2024:** Our paper on GPU side channels is accepted to **<span style="color: #cc0000;"> USENIX Security'24</span>**.  
 **09/2023:** I will be serving on the Program Committee for **<span style="color: #cc0000;">SEED'24</span>**, please consider to submit!  
