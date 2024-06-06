@@ -18,7 +18,7 @@ My research interests lie in computer architecture and cybersecurity, with a foc
 <i class="fas fa-flag"></i> HW: Cache Coherence Attacks  **<a href="files/oakland22.pdf" style="color: #464646"> [Oakland'22]</a>**  
 <i class="fas fa-flag"></i> HW: Cache Conflict Attacks  **<a href="files/micro22.pdf" style="color: #464646"> [MICRO'22]</a>**  
 <i class="fas fa-flag"></i> HW: Uncore Frequency Scaling Attacks  **<a href="files/micro23.pdf" style="color: #464646"> [MICRO'23]</a>**  
-<i class="fas fa-flag"></i> SW: GPU ROP Attacks  **<a href="submission" style="color: #464646"> [USENIX Seurity'24]</a>**  
+<i class="fas fa-flag"></i> SW: GPU ROP Attacks  **<a href="files/usenix24_2.pdf" style="color: #464646"> [USENIX Seurity'24]</a>**  
 
 
 **<span style="color: green">I will join the University of Rochester as an assistant professor in Fall 2024.</span>**  
