@@ -1,9 +1,13 @@
 **<a href="/publications/" style="color: blue"> [Sorted by time] </a>**
 **<a href="/publications_field" style="color: blue"> [Sorted by topic] </a>**
-**<a href="/submission" style="color: blue"> [Under submission] </a>**
 
 
-1. **<a href="/files/usenix24.pdf" style= "color: #464646"> <u>Invalidate+Compare: A Timer-Free GPU Cache Attack Primitive</u>**</a>   
+1. **<a href="/files/usenix24_2.pdf" style= "color: #464646"> <u>GPU Memory Exploitation for Fun and Profit</u>**</a>   
+    **Yanan Guo**, Zhenkai Zhang, and Jun Yang   
+    *33rd USENIX Security Symposium*.  
+    **<span style="color:#cc0000">(USENIX Security'24)</span>** 
+
+1. **<a href="/files/usenix24_1.pdf" style= "color: #464646"> <u>Invalidate+Compare: A Timer-Free GPU Cache Attack Primitive</u>**</a>   
     Zhenkai Zhang, Kunbei Cai, **Yanan Guo**, Fan Yao, and Xing Gao   
     *33rd USENIX Security Symposium*.  
     **<span style="color:#cc0000">(USENIX Security'24)</span>** 
