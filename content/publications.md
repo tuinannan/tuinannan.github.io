@@ -1,6 +1,3 @@
-**<a href="/publications/" style="color: blue"> [Sorted by time] </a>**
-**<a href="/publications_field" style="color: blue"> [Sorted by topic] </a>**
-
 
 1. **<a href="/files/usenix24_2.pdf" style= "color: #464646"> <u>GPU Memory Exploitation for Fun and Profit</u>**</a>   
     **Yanan Guo**, Zhenkai Zhang, and Jun Yang   
