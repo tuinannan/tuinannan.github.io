@@ -37,17 +37,16 @@ Basic Syntax These are the elements outlined in John Gruber’s original design 
       
       <guid>http://yananguo.com/publications/</guid>
       
-        <description>GPU Memory Exploitation for Fun and Profit
+        <description>Integrated Qubit Reuse and Circuit Cutting for Large Quantum Circuit Evaluation
+Aditya Pawar, Yingheng Li, Zewei Mo, Yanan Guo, Youtao Zhang, Xulong Tang, and Jun Yang
+29th ACM International Conference on Architectural Support for Programming Languages and Operating Systems.
+(ASPLOS&#39;24)
+GPU Memory Exploitation for Fun and Profit
 Yanan Guo, Zhenkai Zhang, and Jun Yang
 33rd USENIX Security Symposium.
 (USENIX Security&#39;24)
 Invalidate+Compare: A Timer-Free GPU Cache Attack Primitive
-Zhenkai Zhang, Kunbei Cai, Yanan Guo, Fan Yao, and Xing Gao
-33rd USENIX Security Symposium.
-(USENIX Security&#39;24)
-Uncore Encore: Covert Channels Exploiting Uncore Frequency Scaling
-Yanan Guo, Dingyuan Cao, Xin Xin, Youtao Zhang, and Jun Yang
-56th IEEE/ACM International Symposium on Microarchitecture.</description>
+Zhenkai Zhang, Kunbei Cai, Yanan Guo, Fan Yao, and Xing Gao</description>
       
     </item>
     
