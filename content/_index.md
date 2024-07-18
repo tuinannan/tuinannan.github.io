@@ -27,11 +27,11 @@ My research interests lie in computer architecture and cybersecurity, with a foc
 ---
 ### Contact Info
 
-<i class="far fa-envelope"></i>  yag45@pitt.edu
+<i class="far fa-envelope"></i>  yanan.guo@rochester.edu
 
-<i class="far fa-building"></i>  1113 Benedum Hall
+<i class="far fa-building"></i>  3403 Wegmans Hall
 
-<i class="fas fa-phone"></i>  412-624-8000
+<i class="fas fa-phone"></i>  585-275-5671
 
 ---
 ### Recent News  
