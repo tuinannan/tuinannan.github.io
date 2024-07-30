@@ -35,6 +35,10 @@ My research interests lie in computer architecture and cybersecurity, with a foc
 
 ---
 ### Recent News  
+
+**07/2024:** I will be serving on the Program Committee for **<span style="color: #cc0000;">HASP'24</span>**, please consider to submit!  
+**07/2024:** I will be serving on the Program Committee for **<span style="color: #cc0000;">HPCA'24</span>**, please consider to submit!  
+**06/2024:** Our paper on quantum circuit cutting is accepted to **<span style="color: #cc0000;"> ASPLOS'24</span>** (will be presented at ASPLOS 2025).  
 **06/2024:** Our paper on GPU memory corruption attacks is accepted to **<span style="color: #cc0000;"> USENIX Security'24</span>**.  
 **04/2024:** Our paper on memory safety protection is accepted to **<span style="color: #cc0000;"> ICS'24</span>**.  
 **03/2024:** Our paper on GPU side channels is accepted to **<span style="color: #cc0000;"> USENIX Security'24</span>**.  
