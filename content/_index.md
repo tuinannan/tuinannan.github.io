@@ -3,10 +3,9 @@
 
 ## Yanan (Yaya) Guo
 
-Hi there! I am currently a PhD student at the [University of
-Pittsburgh](https://www.pitt.edu), working with my advisor [Dr. Jun
-Yang](https://sites.pitt.edu/~juy9/) in the Department of Electrical and Computer Engineering. I graduated from [Xidian University](https://www.xidian.edu.cn/) in
-2018 with a Bachelor's degree in Engineering.
+Hi there! I am currently an assistant professor in the Department of Computer Science at the [University of
+Rochester](https://www.rochester.edu). I received my Ph.D. from Pitt, where I worked with my advisor [Dr. Jun
+Yang](https://sites.pitt.edu/~juy9/) on computer architecture and computer security.
 
 My research interests lie in computer architecture and cybersecurity, with a focus on the following areas:  
 <i class="fas fa-paperclip"></i> Microarchitectural side channels.  
@@ -21,7 +20,8 @@ My research interests lie in computer architecture and cybersecurity, with a foc
 <i class="fas fa-flag"></i> SW: GPU ROP Attacks  **<a href="files/usenix24_2.pdf" style="color: #464646"> [USENIX Seurity'24]</a>**  
 
 
-**<span style="color: green">I will join the University of Rochester as an assistant professor in Fall 2024.</span>**  
+**<span style="color: green">
+Openings: I am looking for new PhD students to join my research team. If you are passionate about related research topics, please email with your CV and a brief introduction of your research interests.</span>**  
 
 
 ---
