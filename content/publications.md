@@ -14,6 +14,11 @@
     *33rd USENIX Security Symposium*.  
     **<span style="color:#cc0000">(USENIX Security'24)</span>**
 
+1. **<a href="/files/ics24.pdf" style= "color: #464646"> <u>RTT-UAF: Reuse Time Tracking for Use-After-Free Detection</u>**</a>   
+    Yubo Du, **Yanan Guo**, Youtao Zhang, and Jun Yang   
+    *38th ACM International Conference on Supercomputing*.  
+    **<span style="color:#cc0000">(ICS'24)</span>**
+
 3. **<a href="/files/micro23.pdf" style= "color: #464646"> <u>Uncore Encore: Covert Channels Exploiting Uncore Frequency Scaling</u>**</a>   
     **Yanan Guo**, Dingyuan Cao, Xin Xin, Youtao Zhang, and Jun Yang   
     *56th IEEE/ACM International Symposium on Microarchitecture*.  
