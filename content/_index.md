@@ -20,10 +20,9 @@ My research interests lie in computer architecture and cybersecurity, with a foc
 <i class="fas fa-flag"></i> SW: GPU ROP Attacks  **<a href="files/usenix24_2.pdf" style="color: #464646"> [USENIX Seurity'24]</a>**  
 
 
-**<span style="color: green">
-Openings: I am looking for new PhD students to join my research team. If you are passionate about related research topics, please email with your CV and a brief introduction of your research interests.</span>**  
+**<span style="color: green">Openings:</span>** **I am looking for new PhD students to join my research team. If you are passionate about related research topics, please email with your CV and a brief introduction of your research interests.**  
 
-
+**<span style="color: green">Office Hours</span>** **I dedicate 30 minutes every week to provide guidance or suggestions for first-generation college or underrepresented students. If you need help or wish to discuss topics such as life, career paths, graduate school applications, or research ideas or computer systems and computer security, please fill out the [form](https://forms.gle/uLZz8Vs4zSkb1WWk6) to arrange a meeting.**
 ---
 ### Contact Info
 
