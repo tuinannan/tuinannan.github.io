@@ -13,9 +13,17 @@
       
       <guid>http://yananguo.com/cheat_sheet/</guid>
       
-        <description>Markdown Cheat Sheet Thanks for visiting The Markdown Guide!
-This Markdown cheat sheet provides a quick overview of all the Markdown syntax elements. It can’t cover every edge case, so if you need more information about any of these elements, refer to the reference guides for basic syntax and extended syntax.
-Basic Syntax These are the elements outlined in John Gruber’s original design document. All Markdown applications support these elements.</description>
+        <description>&lt;h1 id=&#34;markdown-cheat-sheet&#34;&gt;Markdown Cheat Sheet&lt;/h1&gt;
+&lt;p&gt;Thanks for visiting &lt;a href=&#34;https://www.markdownguide.org&#34;&gt;The Markdown Guide&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;This Markdown cheat sheet provides a quick overview of all the Markdown syntax elements. It can’t cover every edge case, so if you need more information about any of these elements, refer to the reference guides for &lt;a href=&#34;https://www.markdownguide.org/basic-syntax&#34;&gt;basic syntax&lt;/a&gt; and &lt;a href=&#34;https://www.markdownguide.org/extended-syntax&#34;&gt;extended syntax&lt;/a&gt;.&lt;/p&gt;
+&lt;h2 id=&#34;basic-syntax&#34;&gt;Basic Syntax&lt;/h2&gt;
+&lt;p&gt;These are the elements outlined in John Gruber’s original design document. All Markdown applications support these elements.&lt;/p&gt;
+&lt;h3 id=&#34;heading&#34;&gt;Heading&lt;/h3&gt;
+&lt;h1 id=&#34;h1&#34;&gt;H1&lt;/h1&gt;
+&lt;h2 id=&#34;h2&#34;&gt;H2&lt;/h2&gt;
+&lt;h3 id=&#34;h3&#34;&gt;H3&lt;/h3&gt;
+&lt;h3 id=&#34;bold&#34;&gt;Bold&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;bold text&lt;/strong&gt;&lt;/p&gt;</description>
       
     </item>
     
@@ -26,7 +34,19 @@ Basic Syntax These are the elements outlined in John Gruber’s original design 
       
       <guid>http://yananguo.com/lucky/</guid>
       
-        <description>Here is Lucky Guo </description>
+        <description>&lt;h2 id=&#34;here-is-lucky-guo&#34;&gt;Here is Lucky Guo&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;http://yananguo.com/images/resized/thumb-IMG_2539.jpg&#34;
+style=&#34;float: left; margin-right: 10px;&#34; /&gt;
+&lt;img src=&#34;http://yananguo.com/images/resized/thumb-IMG_1020.jpg&#34;
+style=&#34;float: left; margin-right: 10px;&#34; /&gt;
+&lt;img src=&#34;http://yananguo.com/images/resized/thumb-IMG_1504.jpg&#34;
+style=&#34;float: left; margin-right: 10px;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://yananguo.com/images/resized/thumb-IMG_1755.jpg&#34;
+style=&#34;float: left; margin-right: 10px;&#34; /&gt;
+&lt;img src=&#34;http://yananguo.com/images/resized/thumb-IMG_1916.jpg&#34;
+style=&#34;float: left; margin-right: 10px;&#34; /&gt;
+&lt;img src=&#34;http://yananguo.com/images/resized/thumb-IMG_2382.jpg&#34;
+style=&#34;float: left; margin-right: 5px;&#34; /&gt;&lt;/p&gt;</description>
       
     </item>
     
@@ -37,16 +57,24 @@ Basic Syntax These are the elements outlined in John Gruber’s original design 
       
       <guid>http://yananguo.com/publications/</guid>
       
-        <description>Integrated Qubit Reuse and Circuit Cutting for Large Quantum Circuit Evaluation
-Aditya Pawar, Yingheng Li, Zewei Mo, Yanan Guo, Youtao Zhang, Xulong Tang, and Jun Yang
-29th ACM International Conference on Architectural Support for Programming Languages and Operating Systems.
-(ASPLOS&#39;24)
-GPU Memory Exploitation for Fun and Profit
-Yanan Guo, Zhenkai Zhang, and Jun Yang
-33rd USENIX Security Symposium.
-(USENIX Security&#39;24)
-Invalidate+Compare: A Timer-Free GPU Cache Attack Primitive
-Zhenkai Zhang, Kunbei Cai, Yanan Guo, Fan Yao, and Xing Gao</description>
+        <description>&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://yananguo.com/files/ics24.pdf&#34; style= &#34;color: #464646&#34;&gt; &lt;u&gt;Integrated Qubit Reuse and Circuit Cutting for Large Quantum Circuit Evaluation&lt;/u&gt;&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+Aditya Pawar, Yingheng Li, Zewei Mo, &lt;strong&gt;Yanan Guo&lt;/strong&gt;, Youtao Zhang, Xulong Tang, and Jun Yang&lt;br&gt;
+&lt;em&gt;29th ACM International Conference on Architectural Support for Programming Languages and Operating Systems&lt;/em&gt;.&lt;br&gt;
+&lt;strong&gt;&lt;span style=&#34;color:#cc0000&#34;&gt;(ASPLOS&#39;24)&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://yananguo.com/files/usenix24_2.pdf&#34; style= &#34;color: #464646&#34;&gt; &lt;u&gt;GPU Memory Exploitation for Fun and Profit&lt;/u&gt;&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+&lt;strong&gt;Yanan Guo&lt;/strong&gt;, Zhenkai Zhang, and Jun Yang&lt;br&gt;
+&lt;em&gt;33rd USENIX Security Symposium&lt;/em&gt;.&lt;br&gt;
+&lt;strong&gt;&lt;span style=&#34;color:#cc0000&#34;&gt;(USENIX Security&#39;24)&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://yananguo.com/files/usenix24_1.pdf&#34; style= &#34;color: #464646&#34;&gt; &lt;u&gt;Invalidate+Compare: A Timer-Free GPU Cache Attack Primitive&lt;/u&gt;&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+Zhenkai Zhang, Kunbei Cai, &lt;strong&gt;Yanan Guo&lt;/strong&gt;, Fan Yao, and Xing Gao&lt;br&gt;
+&lt;em&gt;33rd USENIX Security Symposium&lt;/em&gt;.&lt;br&gt;
+&lt;strong&gt;&lt;span style=&#34;color:#cc0000&#34;&gt;(USENIX Security&#39;24)&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;</description>
       
     </item>
     
@@ -57,16 +85,22 @@ Zhenkai Zhang, Kunbei Cai, Yanan Guo, Fan Yao, and Xing Gao</description>
       
       <guid>http://yananguo.com/publications_field/</guid>
       
-        <description>[Sorted by time] [Sorted by topic] [Under submission] Microarchitectural Side Channels:
-Uncore Encore: Covert Channels Exploiting Uncore Frequency Scaling
-Yanan Guo, Dingyuan Cao, Xin Xin, Youtao Zhang, and Jun Yang
-56th IEEE/ACM International Symposium on Microarchitecture.
-(MICRO&#39;23)
-Leaky Way: A Conflict-Based Cache Covert Channel Bypassing Set Associativity
-Yanan Guo, Xin Xin, Youtao Zhang, Jun Yang
-55th IEEE/ACM International Symposium on Microarchitecture.
-(MICRO&#39;22)
-Adversarial Prefetch: New Cross-Core Cache Side Channel Attacks</description>
+        <description>&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://yananguo.com/publications/&#34; style=&#34;color: blue&#34;&gt; [Sorted by time] &lt;/a&gt;&lt;/strong&gt;
+&lt;strong&gt;&lt;a href=&#34;http://yananguo.com/publications_field&#34; style=&#34;color: blue&#34;&gt; [Sorted by topic] &lt;/a&gt;&lt;/strong&gt;
+&lt;strong&gt;&lt;a href=&#34;http://yananguo.com/submission&#34; style=&#34;color: blue&#34;&gt; [Under submission] &lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;span style=&#34;color:#000000&#34;&gt;Microarchitectural Side Channels:&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://yananguo.com/files/micro23.pdf&#34; style= &#34;color: #464646&#34;&gt; &lt;u&gt;Uncore Encore: Covert Channels Exploiting Uncore Frequency Scaling&lt;/u&gt;&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+&lt;strong&gt;Yanan Guo&lt;/strong&gt;, Dingyuan Cao, Xin Xin, Youtao Zhang, and Jun Yang&lt;br&gt;
+&lt;em&gt;56th IEEE/ACM International Symposium on Microarchitecture&lt;/em&gt;.&lt;br&gt;
+&lt;strong&gt;&lt;span style=&#34;color:#cc0000&#34;&gt;(MICRO&#39;23)&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://yananguo.com/files/micro22.pdf&#34; style= &#34;color: #464646&#34;&gt;&lt;u&gt; Leaky Way: A Conflict-Based Cache Covert Channel Bypassing Set Associativity&lt;/u&gt;&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+&lt;strong&gt;Yanan Guo&lt;/strong&gt;, Xin Xin, Youtao Zhang, Jun Yang&lt;br&gt;
+&lt;em&gt;55th IEEE/ACM International Symposium on Microarchitecture.&lt;/em&gt;&lt;br&gt;
+&lt;strong&gt;&lt;span style=&#34;color:#cc0000&#34;&gt;(MICRO&#39;22)&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;</description>
       
     </item>
     
@@ -77,7 +111,12 @@ Adversarial Prefetch: New Cross-Core Cache Side Channel Attacks</description>
       
       <guid>http://yananguo.com/research/</guid>
       
-        <description>12/2022 Cache Side Channel Attacks on Modern Processors. At the Southeast University. 10/2022 Leaky Way: A Conflict-Based Cache Covert Channel Bypassing Set Associativity. At MICRO&#39;22. 06/2022 Adversarial Prefetch: New Cross-Core Cache Side Channel Attacks. At Nvidia. 05/2022 Adversarial Prefetch: New Cross-Core Cache Side Channel Attacks. At Oakland&#39;22. 02/2022 Q-GPU: A Recipe of Optimizations for Quantum Circuit Simulation Using GPUs. At HPCA&#39;22. 10/2021 ModelShield: A Generic and Portable Framework Extension for Defending Bit-Flip based Adversarial Weight Attacks.</description>
+        <description>&lt;p&gt;12/2022  &lt;em&gt;Cache Side Channel Attacks on Modern Processors&lt;/em&gt;. At the Southeast University. &lt;a href=&#34;http://yananguo.com/files/seu-talk-clean.pptx&#34;&gt;&lt;i class=&#34;far fa-file-powerpoint&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;10/2022  &lt;em&gt;Leaky Way: A Conflict-Based Cache Covert Channel Bypassing Set Associativity&lt;/em&gt;. At MICRO&#39;22. &lt;a href=&#34;http://yananguo.com/files/micro22-clean.pptx&#34;&gt;&lt;i class=&#34;far fa-file-powerpoint&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;06/2022  &lt;em&gt;Adversarial Prefetch: New Cross-Core Cache Side Channel Attacks&lt;/em&gt;. At Nvidia. &lt;a href=&#34;http://yananguo.com/files/AdversarialPrefetch-NVIDIA-clean.pptx&#34;&gt;&lt;i class=&#34;far fa-file-powerpoint&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;05/2022  &lt;em&gt;Adversarial Prefetch: New Cross-Core Cache Side Channel Attacks&lt;/em&gt;. At Oakland&#39;22. &lt;a href=&#34;http://yananguo.com/files/oakland22-clean.pptx&#34;&gt;&lt;i class=&#34;far fa-file-powerpoint&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;02/2022  &lt;em&gt;Q-GPU: A Recipe of Optimizations for Quantum Circuit Simulation Using GPUs&lt;/em&gt;. At HPCA&#39;22. &lt;a href=&#34;http://yananguo.com/files/hpca22-clean.pptx&#34;&gt;&lt;i class=&#34;far fa-file-powerpoint&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;10/2021  &lt;em&gt;ModelShield: A Generic and Portable Framework Extension for Defending Bit-Flip based Adversarial Weight Attacks&lt;/em&gt;. At ICCD&#39;21. &lt;a href=&#34;http://yananguo.com/files/modelshield-clean.pptx&#34;&gt;&lt;i class=&#34;far fa-file-powerpoint&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;</description>
       
     </item>
     
@@ -88,14 +127,21 @@ Adversarial Prefetch: New Cross-Core Cache Side Channel Attacks</description>
       
       <guid>http://yananguo.com/submission/</guid>
       
-        <description>[Sorted by time] [Sorted by topic] [Under submission] GPU Memory Exploitation for Fun and Profit
-Yanan Guo, Zhenkai Zhang, and Jun Yang
-Under submission.
-Developted multiple GPU memory corruption attacks, including the first GPU return-oriented programming attack.
-Invalidate+Compare: A Timer-Free GPU Cache Attack Primitive
-Zhenkai Zhang, Kunbei Cai, Yanan Guo, Fan Yao, Xing Gao
-Under submission.
-Developed the first timer-free GPU cache side-channel attack.</description>
+        <description>&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://yananguo.com/publications/&#34; style=&#34;color: blue&#34;&gt; [Sorted by time] &lt;/a&gt;&lt;/strong&gt;
+&lt;strong&gt;&lt;a href=&#34;http://yananguo.com/publications_field&#34; style=&#34;color: blue&#34;&gt; [Sorted by topic] &lt;/a&gt;&lt;/strong&gt;
+&lt;strong&gt;&lt;a href=&#34;http://yananguo.com/submission&#34; style=&#34;color: blue&#34;&gt; [Under submission] &lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://yananguo.com/submission&#34; style= &#34;color: #464646&#34;&gt; &lt;u&gt;GPU Memory Exploitation for Fun and Profit&lt;/u&gt;&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+&lt;strong&gt;Yanan Guo&lt;/strong&gt;, Zhenkai Zhang, and Jun Yang&lt;br&gt;
+&lt;em&gt;Under submission&lt;/em&gt;.&lt;br&gt;
+Developted multiple GPU memory corruption attacks, including the first GPU return-oriented programming attack.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://yananguo.com/submission&#34; style= &#34;color: #464646&#34;&gt;&lt;u&gt; Invalidate+Compare: A Timer-Free GPU Cache Attack Primitive&lt;/u&gt;&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+Zhenkai Zhang, Kunbei Cai, &lt;strong&gt;Yanan Guo&lt;/strong&gt;, Fan Yao, Xing Gao&lt;br&gt;
+&lt;em&gt;Under submission&lt;/em&gt;.&lt;br&gt;
+Developed the first timer-free GPU cache side-channel attack.&lt;/p&gt;</description>
       
     </item>
     
@@ -106,23 +152,38 @@ Developed the first timer-free GPU cache side-channel attack.</description>
       
       <guid>http://yananguo.com/talks/</guid>
       
-        <description>Leaky Hardware: Side Channel Attacks on Modern Processors
--ByteDance
-Adversarial Prefetch: New Cross-Core Cache Side Channel Attacks
--Top Picks in Hardware and Embedded Security 2023
--Nvidia
--Oakland&#39;22
-Cache Side Channel Attacks on Modern Processors
--Southeast University
--University of Pittsburgh
-Leaky Way: A Conflict-Based Cache Covert Channel Bypassing Set Associativity
--MICRO&#39;22
-Adversarial Attacks on DNN-based Adaptive Cruise Control Systems
--SafeThings&#39;23
--NIO
-Prefetch-Based Cache Side Channel Attacks
--CWIDCA&#39;22
-Q-GPU: A Recipe of Optimizations for Quantum Circuit Simulation Using GPUs</description>
+        <description>&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Leaky Hardware: Side Channel Attacks on Modern Processors&lt;/strong&gt;&lt;br&gt;
+-ByteDance&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Adversarial Prefetch: New Cross-Core Cache Side Channel Attacks&lt;/strong&gt;&lt;br&gt;
+-Top Picks in Hardware and Embedded Security 2023&lt;br&gt;
+-Nvidia&lt;br&gt;
+-Oakland&#39;22&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Cache Side Channel Attacks on Modern Processors&lt;/strong&gt;&lt;br&gt;
+-Southeast University&lt;br&gt;
+-University of Pittsburgh&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Leaky Way: A Conflict-Based Cache Covert Channel Bypassing Set Associativity&lt;/strong&gt;&lt;br&gt;
+-MICRO&#39;22&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Adversarial Attacks on DNN-based Adaptive Cruise Control Systems&lt;/strong&gt;&lt;br&gt;
+-SafeThings&#39;23&lt;br&gt;
+-NIO&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Prefetch-Based Cache Side Channel Attacks&lt;/strong&gt;&lt;br&gt;
+-CWIDCA&#39;22&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Q-GPU: A Recipe of Optimizations for Quantum Circuit Simulation Using GPUs&lt;/strong&gt;&lt;br&gt;
+-HPCA&#39;22&lt;/p&gt;</description>
       
     </item>
     
