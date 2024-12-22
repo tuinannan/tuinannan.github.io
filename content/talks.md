@@ -1,4 +1,4 @@
-1. **Behind the Pixels: Unveiling GPU Hardware and Software Security Flaws**
+1. **Behind the Pixels: Unveiling GPU Hardware and Software Security Flaws**  
    -UC Santa Cruz
    
 3. **GPU Memory Exploitation for Fun and Profit**  
