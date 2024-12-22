@@ -154,6 +154,14 @@ Developed the first timer-free GPU cache side-channel attack.&lt;/p&gt;</descrip
       
         <description>&lt;ol&gt;
 &lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Behind the Pixels: Unveiling GPU Hardware and Software Security Flaws&lt;/strong&gt;
+-UC Santa Cruz&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;GPU Memory Exploitation for Fun and Profit&lt;/strong&gt;&lt;br&gt;
+-Usenix Security&#39;24&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Leaky Hardware: Side Channel Attacks on Modern Processors&lt;/strong&gt;&lt;br&gt;
 -ByteDance&lt;/p&gt;
 &lt;/li&gt;
@@ -170,20 +178,7 @@ Developed the first timer-free GPU cache side-channel attack.&lt;/p&gt;</descrip
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Leaky Way: A Conflict-Based Cache Covert Channel Bypassing Set Associativity&lt;/strong&gt;&lt;br&gt;
--MICRO&#39;22&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Adversarial Attacks on DNN-based Adaptive Cruise Control Systems&lt;/strong&gt;&lt;br&gt;
--SafeThings&#39;23&lt;br&gt;
--NIO&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Prefetch-Based Cache Side Channel Attacks&lt;/strong&gt;&lt;br&gt;
--CWIDCA&#39;22&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Q-GPU: A Recipe of Optimizations for Quantum Circuit Simulation Using GPUs&lt;/strong&gt;&lt;br&gt;
--HPCA&#39;22&lt;/p&gt;</description>
+-MICRO&#39;22&lt;/p&gt;</description>
       
     </item>
     
