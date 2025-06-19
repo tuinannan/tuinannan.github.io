@@ -1,24 +1,18 @@
-<!-- configfile can be an absolute path or page relative -->
-{{ $configFilePath := ( .Get "configfile" ) }}
-{{ if not ( hasPrefix ( .Get "configfile" ) "/" ) }}
-{{ $configFilePath = print $.Page.File.Dir $configFilePath }}
-{{ end }}
-
-{{ $contentFilePath := print $.Page.File.Dir ( .Get "contentfile" ) }}
-{{ $galId := .Get "id" | default "gallery" }}
-
-<meta name="viewport" content="user-scalable=no, width=device-width, initial-scale=1, maximum-scale=1"/>
-<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-<link href="https://cdnjs.cloudflare.com/ajax/libs/nanogallery2/3.0.5/css/nanogallery2.min.css" rel="stylesheet" type="text/css" />
-<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/nanogallery2/3.0.5/jquery.nanogallery2.core.min.js"></script>
 <div id="{{ $galId }}"></div>
 
-<script><!--
+<script type="application/json" id="{{ $galId }}-config">
+{{ $configFilePath | readFile | safeHTML }}
+</script>
+
+<script type="application/json" id="{{ $galId }}-items">
+{{ $contentFilePath | readFile | safeHTML }}
+</script>
+
+<script>
 $(document).ready(function () {
-  $("#{{ $galId }}").nanogallery2({
-{{ $configFilePath | readFile | safeJS }}
-   items:
-{{ $contentFilePath | readFile | safeJS }}
-  });
- });
---></script>
+  const config = JSON.parse(document.getElementById("{{ $galId }}-config").textContent);
+  const items = JSON.parse(document.getElementById("{{ $galId }}-items").textContent);
+  config.items = items;
+  $("#{{ $galId }}").nanogallery2(config);
+});
+</script>
