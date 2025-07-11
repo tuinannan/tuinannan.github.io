@@ -33,7 +33,7 @@ url = "https://scholar.google.com/citations?user=TKheXMEAAAAJ&hl=en"
 [[params.socialIcons]]
 icon = "fas fa-envelope"
 title = "e-mail"
-url = "mailto:yag45@pitt.edu"
+url = "mailto:yanan.guo@rochester.edu"
 
 #[markup.goldmark.renderer]
 #unsafe = true
