@@ -36,6 +36,8 @@ My research interests lie in computer architecture and cybersecurity, with a foc
 ---
 ### Recent News  
 
+**07/2025:** Our paper on vGPU side-channel attacks has been accepted to **<span style="color: #cc0000;">NDSS'25</span>**.  
+**07/2025:** Our paper on the security/performance implications of GPU eviction hints has been accepted to **<span style="color: #cc0000;">MICRO'25</span>**.  
 **07/2024:** I will be serving on the Program Committee for **<span style="color: #cc0000;">HASP'24</span>**, please consider to submit!  
 **07/2024:** I will be serving on the Program Committee for **<span style="color: #cc0000;">HPCA'24</span>**, please consider to submit!  
 **06/2024:** Our paper on quantum circuit cutting is accepted to **<span style="color: #cc0000;"> ASPLOS'24</span>** (will be presented at ASPLOS 2025).  
