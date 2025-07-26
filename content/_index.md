@@ -61,7 +61,7 @@ Qizhong Wang, Xiangyue Huang, **Yanan Guo**, and Yuanchao Xu
 Zhenkai Zhang, Kunbei Cai, **Yanan Guo**, Fan Yao, and Xing Gao   
 *33rd USENIX Security Symposium*.  
 **<span style="color:#cc0000">(USENIX Security'24)</span>**  
-
+  
 ---
 ### Recent PC Service
 
