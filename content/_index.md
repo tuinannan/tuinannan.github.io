@@ -7,7 +7,7 @@ Hi there! I am currently an assistant professor in the Department of Computer Sc
 Rochester](https://www.rochester.edu). I received my Ph.D. from Pitt, where I worked with my advisor [Dr. Jun
 Yang](https://sites.pitt.edu/~juy9/) on computer architecture and computer security.
 
-**<span style="color: #cc0000">Research Interests:</span>**  
+**<span style="color: green>Research Interests:</span>**  
 
 My research interests lie in computer architecture and cybersecurity, with a focus on the following areas:  
 <i class="fas fa-paperclip"></i> GPU memory safety (e.g., **<a href="files/usenix24_1.pdf" style="color: #464646"> [USENIX Seurity'24]</a>**).  
