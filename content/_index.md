@@ -59,9 +59,9 @@ Qizhong Wang, Xiangyue Huang, **Yanan Guo**, and Yuanchao Xu
 **<a href="/files/usenix24_1.pdf" style= "color: #464646"> <u>Invalidate+Compare: A Timer-Free GPU Cache Attack Primitive</u>**</a>   
 Zhenkai Zhang, Kunbei Cai, **Yanan Guo**, Fan Yao, and Xing Gao   
 *33rd USENIX Security Symposium*.  
-**<span style="color:#cc0000">(USENIX Security'24)</span>**
+**<span style="color:#cc0000">(USENIX Security'24)</span>**  
 
-### Recent PC Service  
+### Recent PC Service
 
 **2026:** USENIX Security'26, ASPLOS'26, HPCA'26  
 **2025:** ISCA'25, HPCA'25, MICRO'25, GLSVLSI'25, HASP'25  
