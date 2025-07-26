@@ -42,22 +42,22 @@ My research interests lie in computer architecture and cybersecurity, with a foc
 ---
 ### Recent Publications (**[Full List](publications)**)
 
-**<a href="/files/ndss26.pdf" style= "color: #464646"> <u>Exploiting TLBs in Virtualized GPUs for Cross-VM Side-Channel Attacks</u>**</a>   
+**Exploiting TLBs in Virtualized GPUs for Cross-VM Side-Channel Attacks**    
 Hongyue Jin, **Yanan Guo**, and Zhenkai Zhang  
 *The Network and Distributed System Security Symposium 2026*.  
 **<span style="color:#cc0000">(NDSS'26)</span>** 
     
-**<a href="/files/micro25.pdf" style= "color: #464646"> <u>Security and Performance Implications of GPU Cache Eviction Priority Hints</u>**</a>   
+**Security and Performance Implications of GPU Cache Eviction Priority Hints**  
 Qizhong Wang, Xiangyue Huang, **Yanan Guo**, and Yuanchao Xu   
 *58th IEEE/ACM International Symposium on Microarchitecture*.  
 **<span style="color:#cc0000">(MICRO'25)</span>** 
 
-**<a href="/files/usenix24_2.pdf" style= "color: #464646"> <u>GPU Memory Exploitation for Fun and Profit</u>**</a>   
+**GPU Memory Exploitation for Fun and Profit**  
 **Yanan Guo**, Zhenkai Zhang, and Jun Yang   
 *33rd USENIX Security Symposium*.  
 **<span style="color:#cc0000">(USENIX Security'24)</span>** 
 
-**<a href="/files/usenix24_1.pdf" style= "color: #464646"> <u>Invalidate+Compare: A Timer-Free GPU Cache Attack Primitive</u>**</a>   
+**Invalidate+Compare: A Timer-Free GPU Cache Attack Primitive**   
 Zhenkai Zhang, Kunbei Cai, **Yanan Guo**, Fan Yao, and Xing Gao   
 *33rd USENIX Security Symposium*.  
 **<span style="color:#cc0000">(USENIX Security'24)</span>**  
