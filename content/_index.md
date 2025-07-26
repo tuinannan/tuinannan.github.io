@@ -39,6 +39,7 @@ My research interests lie in computer architecture and cybersecurity, with a foc
 **03/2024:** Our paper on GPU side channels is accepted to **<span style="color: #cc0000;"> USENIX Security'24</span>**.  
 **...**
 
+---
 ### Recent Publications (**[Full List](publications)**)
 
 **<a href="/files/ndss26.pdf" style= "color: #464646"> <u>Exploiting TLBs in Virtualized GPUs for Cross-VM Side-Channel Attacks</u>**</a>   
@@ -61,6 +62,7 @@ Zhenkai Zhang, Kunbei Cai, **Yanan Guo**, Fan Yao, and Xing Gao
 *33rd USENIX Security Symposium*.  
 **<span style="color:#cc0000">(USENIX Security'24)</span>**  
 
+---
 ### Recent PC Service
 
 **2026:** USENIX Security'26, ASPLOS'26, HPCA'26  
