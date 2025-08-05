@@ -59,22 +59,22 @@ style=&#34;float: left; margin-right: 5px;&#34; /&gt;&lt;/p&gt;</description>
       
         <description>&lt;ol&gt;
 &lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://yananguo.com/files/ndss26.pdf&#34; style= &#34;color: #464646&#34;&gt; &lt;u&gt;Exploiting TLBs in Virtualized GPUs for Cross-VM Side-Channel Attacks&lt;/u&gt;&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+Hongyue Jin, &lt;strong&gt;Yanan Guo&lt;/strong&gt;, and Zhenkai Zhang&lt;br&gt;
+&lt;em&gt;The Network and Distributed System Security Symposium 2026&lt;/em&gt;.&lt;br&gt;
+&lt;strong&gt;&lt;span style=&#34;color:#cc0000&#34;&gt;(NDSS&#39;26)&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://yananguo.com/files/micro25.pdf&#34; style= &#34;color: #464646&#34;&gt; &lt;u&gt;Security and Performance Implications of GPU Cache Eviction Priority Hints&lt;/u&gt;&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+Qizhong Wang, Xiangyue Huang, &lt;strong&gt;Yanan Guo&lt;/strong&gt;, and Yuanchao Xu&lt;br&gt;
+&lt;em&gt;58th IEEE/ACM International Symposium on Microarchitecture&lt;/em&gt;.&lt;br&gt;
+&lt;strong&gt;&lt;span style=&#34;color:#cc0000&#34;&gt;(MICRO&#39;25)&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
 &lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://yananguo.com/files/ics24.pdf&#34; style= &#34;color: #464646&#34;&gt; &lt;u&gt;Integrated Qubit Reuse and Circuit Cutting for Large Quantum Circuit Evaluation&lt;/u&gt;&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
 Aditya Pawar, Yingheng Li, Zewei Mo, &lt;strong&gt;Yanan Guo&lt;/strong&gt;, Youtao Zhang, Xulong Tang, and Jun Yang&lt;br&gt;
 &lt;em&gt;29th ACM International Conference on Architectural Support for Programming Languages and Operating Systems&lt;/em&gt;.&lt;br&gt;
-&lt;strong&gt;&lt;span style=&#34;color:#cc0000&#34;&gt;(ASPLOS&#39;24)&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://yananguo.com/files/usenix24_2.pdf&#34; style= &#34;color: #464646&#34;&gt; &lt;u&gt;GPU Memory Exploitation for Fun and Profit&lt;/u&gt;&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
-&lt;strong&gt;Yanan Guo&lt;/strong&gt;, Zhenkai Zhang, and Jun Yang&lt;br&gt;
-&lt;em&gt;33rd USENIX Security Symposium&lt;/em&gt;.&lt;br&gt;
-&lt;strong&gt;&lt;span style=&#34;color:#cc0000&#34;&gt;(USENIX Security&#39;24)&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://yananguo.com/files/usenix24_1.pdf&#34; style= &#34;color: #464646&#34;&gt; &lt;u&gt;Invalidate+Compare: A Timer-Free GPU Cache Attack Primitive&lt;/u&gt;&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
-Zhenkai Zhang, Kunbei Cai, &lt;strong&gt;Yanan Guo&lt;/strong&gt;, Fan Yao, and Xing Gao&lt;br&gt;
-&lt;em&gt;33rd USENIX Security Symposium&lt;/em&gt;.&lt;br&gt;
-&lt;strong&gt;&lt;span style=&#34;color:#cc0000&#34;&gt;(USENIX Security&#39;24)&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;</description>
+&lt;strong&gt;&lt;span style=&#34;color:#cc0000&#34;&gt;(ASPLOS&#39;24)&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;</description>
       
     </item>
     
