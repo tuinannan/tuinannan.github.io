@@ -9,7 +9,7 @@ Yang](https://sites.pitt.edu/~juy9/) on computer architecture and computer secur
 
 **<span style="color: green">Research Interests:</span>**  
 My research interests lie in computer architecture and cybersecurity, with a focus on the following areas:  
-<i class="fas fa-paperclip"></i> GPU memory safety (e.g., **<a href="files/usenix24_2.pdf" style="color: #464646"> [USENIX Seurity'24]</a>**).  
+<i class="fas fa-paperclip"></i> GPU memory safety (e.g., **<a href="files/usenix24_2.pdf" style="color: #464646"> [USENIX Security'24]</a>**).  
 <i class="fas fa-paperclip"></i> CPU/GPU side channels (e.g., **<a href="files/ndss26.pdf" style="color: #464646"> [NDSS'26]</a>**).    
 <i class="fas fa-paperclip"></i> GPU microarchitecture characterization and optimization (e.g.,  **<a href="files/micro25.pdf" style="color: #464646"> [MICRO'25]</a>**).  
 
