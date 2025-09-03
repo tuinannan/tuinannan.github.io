@@ -29,7 +29,7 @@ My research interests lie in computer architecture and cybersecurity, with a foc
 
 ---
 ### Recent News  
-
+**08/2025:** Our paper on attacking application sandboxing in macOS is accepted to **<span style="color: #cc0000;">CCS'25</span>**. 
 **07/2025:** Our project on protecting GPU memory safety for AI workflows is awarded by NSF, thanks NSF!  
 **07/2025:** Our paper on vGPU side-channel attacks is accepted to **<span style="color: #cc0000;">NDSS'26</span>**.  
 **07/2025:** Our paper on the security/performance of GPU eviction hints is accepted to **<span style="color: #cc0000;">MICRO'25</span>**.  
