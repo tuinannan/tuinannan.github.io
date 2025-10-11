@@ -48,6 +48,11 @@ My research interests lie in computer architecture and cybersecurity, with a foc
 Hongyue Jin, **Yanan Guo**, and Zhenkai Zhang  
 *The Network and Distributed System Security Symposium 2026*.  
 **<span style="color:#cc0000">(NDSS'26)</span>** 
+
+**Demystifying and Exploiting ASLR on NVIDIA GPUs**  
+Ruofan Zhu, Ganhao Chen, Wenbo Shen, Lyuye Zhang, Dakun Shen, Rui Chang, and **Yanan Guo**  
+*47th IEEE Symposium on Security and Privacy.*  
+**<span style="color:#cc0000">(S&P'26)</span>** 
     
 **Security and Performance Implications of GPU Cache Eviction Priority Hints**  
 Qizhong Wang, Xiangyue Huang, **Yanan Guo**, and Yuanchao Xu   
