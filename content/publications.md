@@ -1,4 +1,4 @@
-1. **<a href="/files/sp26.pdf" style= "color: #464646"> <u>Demystifying and Exploiting ASLR on NVIDIA GPUs</u>**</a>   
+1. **<a href="/files/oakland26.pdf" style= "color: #464646"> <u>Demystifying and Exploiting ASLR on NVIDIA GPUs</u>**</a>   
    Ruofan Zhu, Ganhao Chen, Wenbo Shen, Lyuye Zhang, Dakun Shen, Rui Chang, and **Yanan Guo**  
    *47th IEEE Symposium on Security and Privacy.*  
    **<span style="color:#cc0000">(S&P'26)</span>**  
