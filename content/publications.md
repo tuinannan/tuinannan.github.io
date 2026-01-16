@@ -1,3 +1,13 @@
+1. **<a href="/files/usenix26_2.pdf" style= "color: #464646"> <u>CuSafe: Capturing Memory Corruption on NVIDIA GPUs</u>**</a>   
+    Hongyi Lu, Fengwei Zhang, Zhenkai Zhang, Shuai Wang, **Yanan Guo**   
+    *35th USENIX Security Symposium*.  
+    **<span style="color:#cc0000">(USENIX Security'26)</span>**
+
+1. **<a href="/files/usenix26_1.pdf" style= "color: #464646"> <u>Behind Bars: A Side-Channel Attack on NVIDIA MIG Cache Partitioning Using Memory Barriers</u>**</a>   
+    Cheng Gu, Reese Levine, Zhenkai Zhang, Tyler Sorensen, **Yanan Guo**   
+    *35th USENIX Security Symposium*.  
+    **<span style="color:#cc0000">(USENIX Security'26)</span>**
+
 1. **<a href="/files/oakland26.pdf" style= "color: #464646"> <u>Demystifying and Exploiting ASLR on NVIDIA GPUs</u>**</a>   
    Ruofan Zhu, Ganhao Chen, Wenbo Shen, Lyuye Zhang, Dakun Shen, Rui Chang, and **Yanan Guo**  
    *47th IEEE Symposium on Security and Privacy.*  
