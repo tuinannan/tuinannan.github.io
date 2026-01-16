@@ -59,22 +59,22 @@ style=&#34;float: left; margin-right: 5px;&#34; /&gt;&lt;/p&gt;</description>
       
         <description>&lt;ol&gt;
 &lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://yananguo.com/files/usenix26_2.pdf&#34; style= &#34;color: #464646&#34;&gt; &lt;u&gt;CuSafe: Capturing Memory Corruption on NVIDIA GPUs&lt;/u&gt;&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+Hongyi Lu, Fengwei Zhang, Zhenkai Zhang, Shuai Wang, &lt;strong&gt;Yanan Guo&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;35th USENIX Security Symposium&lt;/em&gt;.&lt;br&gt;
+&lt;strong&gt;&lt;span style=&#34;color:#cc0000&#34;&gt;(USENIX Security&#39;26)&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://yananguo.com/files/usenix26_1.pdf&#34; style= &#34;color: #464646&#34;&gt; &lt;u&gt;Behind Bars: A Side-Channel Attack on NVIDIA MIG Cache Partitioning Using Memory Barriers&lt;/u&gt;&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+Cheng Gu, Reese Levine, Zhenkai Zhang, Tyler Sorensen, &lt;strong&gt;Yanan Guo&lt;/strong&gt;&lt;br&gt;
+&lt;em&gt;35th USENIX Security Symposium&lt;/em&gt;.&lt;br&gt;
+&lt;strong&gt;&lt;span style=&#34;color:#cc0000&#34;&gt;(USENIX Security&#39;26)&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
 &lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://yananguo.com/files/oakland26.pdf&#34; style= &#34;color: #464646&#34;&gt; &lt;u&gt;Demystifying and Exploiting ASLR on NVIDIA GPUs&lt;/u&gt;&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
 Ruofan Zhu, Ganhao Chen, Wenbo Shen, Lyuye Zhang, Dakun Shen, Rui Chang, and &lt;strong&gt;Yanan Guo&lt;/strong&gt;&lt;br&gt;
 &lt;em&gt;47th IEEE Symposium on Security and Privacy.&lt;/em&gt;&lt;br&gt;
-&lt;strong&gt;&lt;span style=&#34;color:#cc0000&#34;&gt;(S&amp;amp;P&#39;26)&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://yananguo.com/files/ndss26.pdf&#34; style= &#34;color: #464646&#34;&gt; &lt;u&gt;Exploiting TLBs in Virtualized GPUs for Cross-VM Side-Channel Attacks&lt;/u&gt;&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
-Hongyue Jin, &lt;strong&gt;Yanan Guo&lt;/strong&gt;, and Zhenkai Zhang&lt;br&gt;
-&lt;em&gt;The Network and Distributed System Security Symposium 2026&lt;/em&gt;.&lt;br&gt;
-&lt;strong&gt;&lt;span style=&#34;color:#cc0000&#34;&gt;(NDSS&#39;26)&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://yananguo.com/files/micro25.pdf&#34; style= &#34;color: #464646&#34;&gt; &lt;u&gt;Security and Performance Implications of GPU Cache Eviction Priority Hints&lt;/u&gt;&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
-Qizhong Wang, Xiangyue Huang, &lt;strong&gt;Yanan Guo&lt;/strong&gt;, and Yuanchao Xu&lt;br&gt;
-&lt;em&gt;58th IEEE/ACM International Symposium on Microarchitecture&lt;/em&gt;.&lt;br&gt;
-&lt;strong&gt;&lt;span style=&#34;color:#cc0000&#34;&gt;(MICRO&#39;25)&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;</description>
+&lt;strong&gt;&lt;span style=&#34;color:#cc0000&#34;&gt;(S&amp;amp;P&#39;26)&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;</description>
       
     </item>
     
