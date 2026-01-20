@@ -29,12 +29,13 @@ My research interests lie in computer architecture and cybersecurity, with a foc
 
 ---
 ### Recent News  
-**01/2026:** Our paper on CUDA memory safety protection is accepted to **<span style="color: #cc0000;">USENIX Security'26</span>**.  
-**01/2026:** Our paper on Cross-MIG GPU side channels is accepted to **<span style="color: #cc0000;">USENIX Security'26</span>**.   
+
+**01/2026:** Our paper on GPU side channels is accepted to **<span style="color: #cc0000;">USENIX Security'26</span>**. Congrats, Cheng!   
+**01/2026:** Our paper on CUDA memory safety protection is accepted to **<span style="color: #cc0000;">USENIX Security'26</span>**.    
 **10/2025:** Reveived a research gift from **Hydrox AI**, thanks for supporting our research!  
 **09/2025:** Our paper on GPU ASLR is accepted to **<span style="color: #cc0000;">Oakland'26</span>**.   
 **08/2025:** Our paper on attacking application sandboxing in macOS is accepted to **<span style="color: #cc0000;">CCS'25</span>**.   
-**07/2025:** Our project on protecting GPU memory safety for AI workflows is awarded by **NSF**, thanks **NSF**!  
+**07/2025:** Our project on protecting GPU memory safety is awarded by **NSF**. Thanks, **NSF**!  
 **07/2025:** Our paper on vGPU side-channel attacks is accepted to **<span style="color: #cc0000;">NDSS'26</span>**.  
 **07/2025:** Our paper on the security/performance of GPU eviction hints is accepted to **<span style="color: #cc0000;">MICRO'25</span>**.  
 
