@@ -17,7 +17,12 @@
     Hongyue Jin, **Yanan Guo**, and Zhenkai Zhang  
     *The Network and Distributed System Security Symposium 2026*.  
     **<span style="color:#cc0000">(NDSS'26)</span>** 
-    
+
+1. **<a href="/files/ccs25.pdf" style= "color: #464646"> <u>Chekhov’s Gun: Uncovering Hidden Risks in macOS Application-Sandboxed PID-Domain Services</u>**</a>   
+    Minghao Lin, Jiaxun Zhu, Tingting Yin, Zechao Cai, Guanxing Wen, **Yanan Guo**, and Mengyuan Li  
+    *32nd ACM Conference on Computer and Communications Security*.  
+    **<span style="color:#cc0000">(CCS'25)</span>** 
+
 1. **<a href="/files/micro25.pdf" style= "color: #464646"> <u>Security and Performance Implications of GPU Cache Eviction Priority Hints</u>**</a>   
     Qizhong Wang, Xiangyue Huang, **Yanan Guo**, and Yuanchao Xu   
     *58th IEEE/ACM International Symposium on Microarchitecture*.  
