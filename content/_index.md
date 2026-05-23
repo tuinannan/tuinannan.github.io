@@ -29,7 +29,7 @@ My research interests lie in computer architecture and cybersecurity, with a foc
 
 ---
 ### Recent News  
-**05/2026:** Our paper on GPU ASLR won the Distinguished Paper Award at **<span style="color: #cc0000;">Oakland'26</span>**.  
+**05/2026:** Our paper on GPU ASLR won the **Distinguished Paper Award** at **<span style="color: #cc0000;">Oakland'26</span>**.  
 **03/2026:** Our two papers on optimizing the performance of multi-GPU systems are accepted to **<span style="color: #cc0000;">ISCA'26</span>**.     
 **03/2026:** Our paper on Exploiting GPU Rowhammer is accepted to **<span style="color: #cc0000;">Oakland'26</span>**.    
 **01/2026:** Our paper on GPU side channels is accepted to **<span style="color: #cc0000;">USENIX Security'26</span>**. Congrats, Cheng!   
@@ -69,7 +69,7 @@ Qizhong Wang, Xiangyue Huang, **Yanan Guo**, and Yuanchao Xu
 ---
 ### Recent PC Service
 
-**2026:** USENIX Security'26, ASPLOS'26, HPCA'26  
+**2026:** CCS'26, USENIX Security'26, ASPLOS'26, HPCA'26  
 **2025:** ISCA'25, HPCA'25, MICRO'25, GLSVLSI'25, HASP'25  
 
 
