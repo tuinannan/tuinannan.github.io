@@ -8,10 +8,25 @@
     *35th USENIX Security Symposium*.  
     **<span style="color:#cc0000">(USENIX Security'26)</span>**
 
-1. **<a href="/files/oakland26.pdf" style= "color: #464646"> <u>Demystifying and Exploiting ASLR on NVIDIA GPUs</u>**</a>   
+1. **<a href="/files/oakland26_1.pdf" style= "color: #464646"> <u>Demystifying and Exploiting ASLR on NVIDIA GPUs</u>**</a>   
    Ruofan Zhu, Ganhao Chen, Wenbo Shen, Lyuye Zhang, Dakun Shen, Rui Chang, and **Yanan Guo**  
    *47th IEEE Symposium on Security and Privacy.*  
-   **<span style="color:#cc0000">(S&P'26)</span>**  
+   **<span style="color:#cc0000">(S&P'26)</span>**
+
+1. **<a href="/files/oakland26_2.pdf" style= "color: #464646"> <u>GeForge: Hammering GDDR Memory to Forge GPU Page Tables for Fun and Profit</u>**</a>  
+    Junpeng Wan, **Yanan Guo**, Zhi Zhang, Dave (Jing) Tian, Zhenkai Zhang   
+    *47th IEEE Symposium on Security and Privacy.*   
+    **<span style="color:#cc0000">(S&P'26)</span>**
+
+1. **<a href="/files/isca26_1.pdf" style= "color: #464646"> <u>LIBRA: A High-Accuracy, Cost-Aware, and Coordinated Multi-GPU Page Prefetcher</u>**</a>  
+   Xiangyue Huang, **Yanan Guo**, Yuanchao Xu   
+   *53rd International Symposium on Computer Architecture.*   
+   **<span style="color:#cc0000">(ISCA'26)</span>**
+
+1. **<a href="/files/isca26_2.pdf" style= "color: #464646"> <u>Coarse-Grained Duplication First, Fine-Grained Deduplication Later: Duplication-Centric Multi-GPU Memory Management</u>**</a>     
+   Xiangyue Huang, **Yanan Guo**, Yuanchao Xu   
+   *53rd International Symposium on Computer Architecture.*   
+   **<span style="color:#cc0000">(ISCA'26)</span>**   
    
 1. **<a href="/files/ndss26.pdf" style= "color: #464646"> <u>Exploiting TLBs in Virtualized GPUs for Cross-VM Side-Channel Attacks</u>**</a>   
     Hongyue Jin, **Yanan Guo**, and Zhenkai Zhang  
