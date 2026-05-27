@@ -11,7 +11,8 @@
 1. **<a href="/files/oakland26_1.pdf" style= "color: #464646"> <u>Demystifying and Exploiting ASLR on NVIDIA GPUs</u>**</a>   
    Ruofan Zhu, Ganhao Chen, Wenbo Shen, Lyuye Zhang, Dakun Shen, Rui Chang, and **Yanan Guo**  
    *47th IEEE Symposium on Security and Privacy.*  
-   **<span style="color:#cc0000">(S&P'26)</span>**
+   **<span style="color:#cc0000">(S&P'26)</span>**  
+   **<span style="color:#cc0000">Distinguished Paper Award</span>**  
 
 1. **<a href="/files/oakland26_2.pdf" style= "color: #464646"> <u>GeForge: Hammering GDDR Memory to Forge GPU Page Tables for Fun and Profit</u>**</a>  
     Junpeng Wan, **Yanan Guo**, Zhi Zhang, Dave (Jing) Tian, Zhenkai Zhang   
