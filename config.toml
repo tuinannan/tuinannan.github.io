@@ -5,7 +5,6 @@ theme = "anatole"
 
 [params]
 title = "Yanan Guo"
-author = "Yanan Guo"
 description = "<center>郭雅楠</center>"
 profilePicture = "images/yanan4.jpg"
 contentratio = 0.67
@@ -13,6 +12,9 @@ mainsections=[]
 customCss = ["https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css"]
 gtagId = "G-3L6QMS3R0X"
 
+[params.author]
+name = "Yanan Guo"
+email = "yanan.guo@rochester.edu"
 
 
 [[params.socialIcons]]
