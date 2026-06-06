@@ -12,8 +12,8 @@ mainsections=[]
 customCss = ["https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css"]
 gtagId = "G-3L6QMS3R0X"
 
-author = "Yanan Guo"
-
+[params.author]
+name = "Yanan Guo"
 
 
 [[params.socialIcons]]
