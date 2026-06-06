@@ -5,8 +5,6 @@
     <link>http://yananguo.com/categories/</link>
     <description>Recent content in Categories on Yanan Guo&#39;s Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <managingEditor>yanan.guo@rochester.edu (Yanan Guo)</managingEditor>
-    <webMaster>yanan.guo@rochester.edu (Yanan Guo)</webMaster><atom:link href="http://yananguo.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://yananguo.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

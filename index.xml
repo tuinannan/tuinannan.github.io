@@ -5,14 +5,12 @@
     <link>http://yananguo.com/</link>
     <description>Recent content on Yanan Guo&#39;s Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <managingEditor>yanan.guo@rochester.edu (Yanan Guo)</managingEditor>
-    <webMaster>yanan.guo@rochester.edu (Yanan Guo)</webMaster><atom:link href="http://yananguo.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="http://yananguo.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
       <link>http://yananguo.com/cheat_sheet/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>yanan.guo@rochester.edu (Yanan Guo)</author>
+      
       <guid>http://yananguo.com/cheat_sheet/</guid>
       
         <description>&lt;h1 id=&#34;markdown-cheat-sheet&#34;&gt;Markdown Cheat Sheet&lt;/h1&gt;
@@ -33,7 +31,7 @@
       <title></title>
       <link>http://yananguo.com/lucky/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>yanan.guo@rochester.edu (Yanan Guo)</author>
+      
       <guid>http://yananguo.com/lucky/</guid>
       
         <description>&lt;h2 id=&#34;here-is-lucky-guo&#34;&gt;Here is Lucky Guo&lt;/h2&gt;
@@ -56,7 +54,7 @@ style=&#34;float: left; margin-right: 5px;&#34; /&gt;&lt;/p&gt;</description>
       <title></title>
       <link>http://yananguo.com/publications/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>yanan.guo@rochester.edu (Yanan Guo)</author>
+      
       <guid>http://yananguo.com/publications/</guid>
       
         <description>&lt;ol&gt;
@@ -85,7 +83,7 @@ Ruofan Zhu, Ganhao Chen, Wenbo Shen, Lyuye Zhang, Dakun Shen, Rui Chang, and &lt
       <title></title>
       <link>http://yananguo.com/publications_field/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>yanan.guo@rochester.edu (Yanan Guo)</author>
+      
       <guid>http://yananguo.com/publications_field/</guid>
       
         <description>&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://yananguo.com/publications/&#34; style=&#34;color: blue&#34;&gt; [Sorted by time] &lt;/a&gt;&lt;/strong&gt;
@@ -111,7 +109,7 @@ Ruofan Zhu, Ganhao Chen, Wenbo Shen, Lyuye Zhang, Dakun Shen, Rui Chang, and &lt
       <title></title>
       <link>http://yananguo.com/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>yanan.guo@rochester.edu (Yanan Guo)</author>
+      
       <guid>http://yananguo.com/research/</guid>
       
         <description>&lt;p&gt;12/2022  &lt;em&gt;Cache Side Channel Attacks on Modern Processors&lt;/em&gt;. At the Southeast University. &lt;a href=&#34;http://yananguo.com/files/seu-talk-clean.pptx&#34;&gt;&lt;i class=&#34;far fa-file-powerpoint&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;/p&gt;
@@ -127,7 +125,7 @@ Ruofan Zhu, Ganhao Chen, Wenbo Shen, Lyuye Zhang, Dakun Shen, Rui Chang, and &lt
       <title></title>
       <link>http://yananguo.com/submission/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>yanan.guo@rochester.edu (Yanan Guo)</author>
+      
       <guid>http://yananguo.com/submission/</guid>
       
         <description>&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://yananguo.com/publications/&#34; style=&#34;color: blue&#34;&gt; [Sorted by time] &lt;/a&gt;&lt;/strong&gt;
@@ -152,7 +150,7 @@ Developed the first timer-free GPU cache side-channel attack.&lt;/p&gt;</descrip
       <title></title>
       <link>http://yananguo.com/talks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>yanan.guo@rochester.edu (Yanan Guo)</author>
+      
       <guid>http://yananguo.com/talks/</guid>
       
         <description>&lt;ol&gt;
