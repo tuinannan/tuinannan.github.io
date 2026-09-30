@@ -75,7 +75,148 @@ Cheng Gu, Reese Levine, Zhenkai Zhang, Tyler Sorensen, &lt;strong&gt;Yanan Guo&l
 Ruofan Zhu, Ganhao Chen, Wenbo Shen, Lyuye Zhang, Dakun Shen, Rui Chang, and &lt;strong&gt;Yanan Guo&lt;/strong&gt;&lt;br&gt;
 &lt;em&gt;47th IEEE Symposium on Security and Privacy.&lt;/em&gt;&lt;br&gt;
 &lt;strong&gt;&lt;span style=&#34;color:#cc0000&#34;&gt;(S&amp;amp;P&#39;26)&lt;/span&gt;&lt;/strong&gt;&lt;br&gt;
-&lt;strong&gt;&lt;span style=&#34;color:#cc0000&#34;&gt;Distinguished Paper Award&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;</description>
+&lt;strong&gt;&lt;span style=&#34;color:#cc0000&#34;&gt;Distinguished Paper Award&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://yananguo.com/files/oakland26_2.pdf&#34; style= &#34;color: #464646&#34;&gt; &lt;u&gt;GeForge: Hammering GDDR Memory to Forge GPU Page Tables for Fun and Profit&lt;/u&gt;&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+Junpeng Wan, &lt;strong&gt;Yanan Guo&lt;/strong&gt;, Zhi Zhang, Dave (Jing) Tian, Zhenkai Zhang&lt;br&gt;
+&lt;em&gt;47th IEEE Symposium on Security and Privacy.&lt;/em&gt;&lt;br&gt;
+&lt;strong&gt;&lt;span style=&#34;color:#cc0000&#34;&gt;(S&amp;amp;P&#39;26)&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://yananguo.com/files/isca26_1.pdf&#34; style= &#34;color: #464646&#34;&gt; &lt;u&gt;LIBRA: A High-Accuracy, Cost-Aware, and Coordinated Multi-GPU Page Prefetcher&lt;/u&gt;&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+Xiangyue Huang, &lt;strong&gt;Yanan Guo&lt;/strong&gt;, Yuanchao Xu&lt;br&gt;
+&lt;em&gt;53rd International Symposium on Computer Architecture.&lt;/em&gt;&lt;br&gt;
+&lt;strong&gt;&lt;span style=&#34;color:#cc0000&#34;&gt;(ISCA&#39;26)&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://yananguo.com/files/isca26_2.pdf&#34; style= &#34;color: #464646&#34;&gt; &lt;u&gt;Coarse-Grained Duplication First, Fine-Grained Deduplication Later: Duplication-Centric Multi-GPU Memory Management&lt;/u&gt;&lt;/strong&gt;&lt;/a&gt;  &lt;br&gt;
+Xiangyue Huang, &lt;strong&gt;Yanan Guo&lt;/strong&gt;, Yuanchao Xu&lt;br&gt;
+&lt;em&gt;53rd International Symposium on Computer Architecture.&lt;/em&gt;&lt;br&gt;
+&lt;strong&gt;&lt;span style=&#34;color:#cc0000&#34;&gt;(ISCA&#39;26)&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://yananguo.com/files/ndss26.pdf&#34; style= &#34;color: #464646&#34;&gt; &lt;u&gt;Exploiting TLBs in Virtualized GPUs for Cross-VM Side-Channel Attacks&lt;/u&gt;&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+Hongyue Jin, &lt;strong&gt;Yanan Guo&lt;/strong&gt;, and Zhenkai Zhang&lt;br&gt;
+&lt;em&gt;The Network and Distributed System Security Symposium 2026&lt;/em&gt;.&lt;br&gt;
+&lt;strong&gt;&lt;span style=&#34;color:#cc0000&#34;&gt;(NDSS&#39;26)&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://yananguo.com/files/ccs25.pdf&#34; style= &#34;color: #464646&#34;&gt; &lt;u&gt;Chekhov’s Gun: Uncovering Hidden Risks in macOS Application-Sandboxed PID-Domain Services&lt;/u&gt;&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+Minghao Lin, Jiaxun Zhu, Tingting Yin, Zechao Cai, Guanxing Wen, &lt;strong&gt;Yanan Guo&lt;/strong&gt;, and Mengyuan Li&lt;br&gt;
+&lt;em&gt;32nd ACM Conference on Computer and Communications Security&lt;/em&gt;.&lt;br&gt;
+&lt;strong&gt;&lt;span style=&#34;color:#cc0000&#34;&gt;(CCS&#39;25)&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://yananguo.com/files/micro25.pdf&#34; style= &#34;color: #464646&#34;&gt; &lt;u&gt;Security and Performance Implications of GPU Cache Eviction Priority Hints&lt;/u&gt;&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+Qizhong Wang, Xiangyue Huang, &lt;strong&gt;Yanan Guo&lt;/strong&gt;, and Yuanchao Xu&lt;br&gt;
+&lt;em&gt;58th IEEE/ACM International Symposium on Microarchitecture&lt;/em&gt;.&lt;br&gt;
+&lt;strong&gt;&lt;span style=&#34;color:#cc0000&#34;&gt;(MICRO&#39;25)&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://yananguo.com/files/ics24.pdf&#34; style= &#34;color: #464646&#34;&gt; &lt;u&gt;Integrated Qubit Reuse and Circuit Cutting for Large Quantum Circuit Evaluation&lt;/u&gt;&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+Aditya Pawar, Yingheng Li, Zewei Mo, &lt;strong&gt;Yanan Guo&lt;/strong&gt;, Youtao Zhang, Xulong Tang, and Jun Yang&lt;br&gt;
+&lt;em&gt;29th ACM International Conference on Architectural Support for Programming Languages and Operating Systems&lt;/em&gt;.&lt;br&gt;
+&lt;strong&gt;&lt;span style=&#34;color:#cc0000&#34;&gt;(ASPLOS&#39;24)&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://yananguo.com/files/usenix24_2.pdf&#34; style= &#34;color: #464646&#34;&gt; &lt;u&gt;GPU Memory Exploitation for Fun and Profit&lt;/u&gt;&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+&lt;strong&gt;Yanan Guo&lt;/strong&gt;, Zhenkai Zhang, and Jun Yang&lt;br&gt;
+&lt;em&gt;33rd USENIX Security Symposium&lt;/em&gt;.&lt;br&gt;
+&lt;strong&gt;&lt;span style=&#34;color:#cc0000&#34;&gt;(USENIX Security&#39;24)&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://yananguo.com/files/usenix24_1.pdf&#34; style= &#34;color: #464646&#34;&gt; &lt;u&gt;Invalidate+Compare: A Timer-Free GPU Cache Attack Primitive&lt;/u&gt;&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+Zhenkai Zhang, Kunbei Cai, &lt;strong&gt;Yanan Guo&lt;/strong&gt;, Fan Yao, and Xing Gao&lt;br&gt;
+&lt;em&gt;33rd USENIX Security Symposium&lt;/em&gt;.&lt;br&gt;
+&lt;strong&gt;&lt;span style=&#34;color:#cc0000&#34;&gt;(USENIX Security&#39;24)&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://yananguo.com/files/ics24.pdf&#34; style= &#34;color: #464646&#34;&gt; &lt;u&gt;RTT-UAF: Reuse Time Tracking for Use-After-Free Detection&lt;/u&gt;&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+Yubo Du, &lt;strong&gt;Yanan Guo&lt;/strong&gt;, Youtao Zhang, and Jun Yang&lt;br&gt;
+&lt;em&gt;38th ACM International Conference on Supercomputing&lt;/em&gt;.&lt;br&gt;
+&lt;strong&gt;&lt;span style=&#34;color:#cc0000&#34;&gt;(ICS&#39;24)&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://yananguo.com/files/micro23.pdf&#34; style= &#34;color: #464646&#34;&gt; &lt;u&gt;Uncore Encore: Covert Channels Exploiting Uncore Frequency Scaling&lt;/u&gt;&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+&lt;strong&gt;Yanan Guo&lt;/strong&gt;, Dingyuan Cao, Xin Xin, Youtao Zhang, and Jun Yang&lt;br&gt;
+&lt;em&gt;56th IEEE/ACM International Symposium on Microarchitecture&lt;/em&gt;.&lt;br&gt;
+&lt;strong&gt;&lt;span style=&#34;color:#cc0000&#34;&gt;(MICRO&#39;23)&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://yananguo.com/files/micro23_2.pdf&#34; style= &#34;color: #464646&#34;&gt;&lt;u&gt; IDYLL: Enhancing Page Translation in Multi-GPUs via Light Weight PTE Invalidations &lt;/u&gt;&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+Bingyao Li, &lt;strong&gt;Yanan Guo&lt;/strong&gt;, Yueqi Wang, Aamer Jaleel, Jun Yang, and Xulong Tang&lt;br&gt;
+&lt;em&gt;56th IEEE/ACM International Symposium on Microarchitecture&lt;/em&gt;.&lt;br&gt;
+&lt;strong&gt;&lt;span style=&#34;color:#cc0000&#34;&gt;(MICRO&#39;23)&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://yananguo.com/files/icml23.pdf&#34; style= &#34;color: #464646&#34;&gt;&lt;u&gt; Understanding and Defending Patch-based Adversarial Attacks for Vision Transformer &lt;/u&gt;&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+Liang Liu, &lt;strong&gt;Yanan Guo&lt;/strong&gt;, Youtao Zhang, Jun Yang&lt;br&gt;
+&lt;em&gt;40th International Conference on Machine Learning&lt;/em&gt;.&lt;br&gt;
+&lt;strong&gt;&lt;span style=&#34;color:#cc0000&#34;&gt;(ICML&#39;23)&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://yananguo.com/files/dac23.pdf&#34; style= &#34;color: #464646&#34;&gt;&lt;u&gt; Orchestrating Measurement-Based Quantum Computation over Photonic Quantum Processors &lt;/u&gt;&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+Yingheng Li, Aditya Pawar, Mohadeseh Azari, &lt;strong&gt;Yanan Guo&lt;/strong&gt;, Youtao Zhang, Jun Yang, Kaushik Parasuram Seshadreesan, Xulong Tang&lt;br&gt;
+&lt;em&gt;60th Design Automation Conference.&lt;/em&gt;&lt;br&gt;
+&lt;strong&gt;&lt;span style=&#34;color:#cc0000&#34;&gt;(DAC&#39;23)&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://yananguo.com/files/tc22.pdf&#34; style= &#34;color: #464646&#34;&gt;&lt;u&gt; Generating Robust DNN with Resistance to Bit-Flip Based Adversarial Weight Attacks &lt;/u&gt;&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+Liang Liu, &lt;strong&gt;Yanan Guo&lt;/strong&gt;, Yueqiang Cheng, Youtao Zhang, Jun Yang&lt;br&gt;
+&lt;em&gt;IEEE Transactions on Computers.&lt;/em&gt;&lt;br&gt;
+&lt;strong&gt;&lt;span style=&#34;color:#cc0000&#34;&gt;(TC) &lt;br&gt; Featured Paper in the 02/22 issue of IEEE TC&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://yananguo.com/files/micro22.pdf&#34; style= &#34;color: #464646&#34;&gt;&lt;u&gt; Leaky Way: A Conflict-Based Cache Covert Channel Bypassing Set Associativity&lt;/u&gt;&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+&lt;strong&gt;Yanan Guo&lt;/strong&gt;, Xin Xin, Youtao Zhang, Jun Yang&lt;br&gt;
+&lt;em&gt;55th IEEE/ACM International Symposium on Microarchitecture.&lt;/em&gt;&lt;br&gt;
+&lt;strong&gt;&lt;span style=&#34;color:#cc0000&#34;&gt;(MICRO&#39;22)&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://yananguo.com/files/oakland22.pdf&#34; style= &#34;color: #464646&#34;&gt;&lt;u&gt; Adversarial Prefetch: New Cross-Core Cache Side Channel Attacks&lt;/u&gt;&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+&lt;strong&gt;Yanan Guo&lt;/strong&gt;, Andrew Zigerelli, Youtao Zhang, Jun Yang&lt;br&gt;
+&lt;em&gt;2022 IEEE Symposium on Security and Privacy.&lt;/em&gt;&lt;br&gt;
+&lt;strong&gt;&lt;span style=&#34;color:#cc0000&#34;&gt;(S&amp;amp;P&#39;22)&lt;/span&gt;&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;&lt;span style=&#34;color:#cc0000&#34;&gt;Shortlisted for Top Picks in Hardware and Embeded Security 2023&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://yananguo.com/files/hpca22.pdf&#34; style= &#34;color: #464646&#34;&gt;&lt;u&gt; Q-GPU: A Recipe of Optimizations for Quantum Circuit Simulation Using GPUs&lt;/u&gt;&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+Yilun Zhao, &lt;strong&gt;Yanan Guo&lt;/strong&gt;, Yuan Yao, Amanda Dumi, Devin M Mulvey, Shiv Upadhyay, Youtao Zhang, Kenneth D Jordan, Jun Yang, Xulong Tang&lt;br&gt;
+&lt;em&gt;28th IEEE International Symposium on High-Performance Computer Architecture.&lt;/em&gt;&lt;br&gt;
+&lt;strong&gt;&lt;span style=&#34;color:#cc0000&#34;&gt;(HPCA&#39;22)&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://yananguo.com/files/iccd21.pdf&#34; style= &#34;color: #464646&#34;&gt; &lt;u&gt;ModelShield: A Generic and Portable Framework Extension for Defending Bit-Flip based Adversarial Weight Attacks&lt;/u&gt;&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+&lt;strong&gt;Yanan Guo&lt;/strong&gt;, Liang Liu, Yueqiang Cheng, Youtao Zhang, and Jun Yang&lt;br&gt;
+&lt;em&gt;39th IEEE International Conference on Computer Design.&lt;/em&gt;&lt;br&gt;
+&lt;strong&gt;&lt;span style=&#34;color:#cc0000&#34;&gt;(ICCD&#39;21)&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://yananguo.com/files/iccv21.pdf&#34; style= &#34;color: #464646&#34;&gt;&lt;u&gt; An Adversarial Attack on DNN-based Adaptive Cruise Control Systems &lt;/u&gt;&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+&lt;strong&gt;Yanan Guo&lt;/strong&gt;, Christopher Dipalma, Takami Sato, Yulong Cal, Alfred Chen, and Yueqiang Cheng
+&lt;a href=&#34;https://sites.google.com/view/acc-adv&#34;&gt;&lt;i class=&#34;fas fa-link&#34;&gt;&lt;/i&gt;&lt;/a&gt;&lt;br&gt;
+&lt;strong&gt;&lt;span style=&#34;color:#cc0000&#34;&gt;(ICCV&#39;21 Workshop)&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://yananguo.com/files/seed21.pdf&#34; style= &#34;color: #464646&#34;&gt;&lt;u&gt; Performance-Enhanced Integrity Verification for Large Memories &lt;/u&gt;&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+&lt;strong&gt;Yanan Guo&lt;/strong&gt;, Andrew Zigerelli, Yueqiang Cheng, Youtao Zhang, and Jun Yang&lt;br&gt;
+&lt;em&gt;1st IEEE International Symposium on Secure and Private Execution Environment Design.&lt;/em&gt;&lt;br&gt;
+&lt;strong&gt;&lt;span style=&#34;color:#cc0000&#34;&gt;(SEED&#39;21)&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://yananguo.com/files/micro21.pdf&#34; style= &#34;color: #464646&#34;&gt;&lt;u&gt; SAM: Accelerating Strided Memory Accesses &lt;/u&gt;&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+Xin Xin, &lt;strong&gt;Yanan Guo&lt;/strong&gt;, Youtao Zhang, and Jun Yang&lt;br&gt;
+&lt;em&gt;54th IEEE/ACM International Symposium on Microarchitecture.&lt;/em&gt;&lt;br&gt;
+&lt;strong&gt;&lt;span style=&#34;color:#cc0000&#34;&gt;(MICRO&#39;21)&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://yananguo.com/files/glsvlsi.pdf&#34; style= &#34;color: #464646&#34;&gt; &lt;u&gt; IVcache: Defending Cache Side Channel Attacks via Invisible Accesses &lt;/u&gt;&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+&lt;strong&gt;Yanan Guo&lt;/strong&gt;, Andrew Zigerelli, Youtao Zhang, and Jun Yang&lt;br&gt;
+&lt;em&gt;31st Great Lakes Symposium on VLSI.&lt;/em&gt;&lt;br&gt;
+&lt;strong&gt;&lt;span style=&#34;color:#cc0000&#34;&gt;(GLSVLSI&#39;21)&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</description>
       
     </item>
     
@@ -101,7 +242,22 @@ Ruofan Zhu, Ganhao Chen, Wenbo Shen, Lyuye Zhang, Dakun Shen, Rui Chang, and &lt
 &lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://yananguo.com/files/micro22.pdf&#34; style= &#34;color: #464646&#34;&gt;&lt;u&gt; Leaky Way: A Conflict-Based Cache Covert Channel Bypassing Set Associativity&lt;/u&gt;&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
 &lt;strong&gt;Yanan Guo&lt;/strong&gt;, Xin Xin, Youtao Zhang, Jun Yang&lt;br&gt;
 &lt;em&gt;55th IEEE/ACM International Symposium on Microarchitecture.&lt;/em&gt;&lt;br&gt;
-&lt;strong&gt;&lt;span style=&#34;color:#cc0000&#34;&gt;(MICRO&#39;22)&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;</description>
+&lt;strong&gt;&lt;span style=&#34;color:#cc0000&#34;&gt;(MICRO&#39;22)&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://yananguo.com/files/oakland22.pdf&#34; style= &#34;color: #464646&#34;&gt;&lt;u&gt; Adversarial Prefetch: New Cross-Core Cache Side Channel Attacks&lt;/u&gt;&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+&lt;strong&gt;Yanan Guo&lt;/strong&gt;, Andrew Zigerelli, Youtao Zhang, Jun Yang&lt;br&gt;
+&lt;em&gt;2022 IEEE Symposium on Security and Privacy.&lt;/em&gt;&lt;br&gt;
+&lt;strong&gt;&lt;span style=&#34;color:#cc0000&#34;&gt;(S&amp;amp;P&#39;22)&lt;/span&gt;&lt;/strong&gt;&lt;br&gt;
+&lt;strong&gt;&lt;span style=&#34;color:#cc0000&#34;&gt;Shortlisted for Top Picks in Hardware and Embeded Security 2023&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://yananguo.com/files/glsvlsi.pdf&#34; style= &#34;color: #464646&#34;&gt; &lt;u&gt; IVcache: Defending Cache Side Channel Attacks via Invisible Accesses &lt;/u&gt;&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
+&lt;strong&gt;Yanan Guo&lt;/strong&gt;, Andrew Zigerelli, Youtao Zhang, and Jun Yang&lt;br&gt;
+&lt;em&gt;31st Great Lakes Symposium on VLSI.&lt;/em&gt;&lt;br&gt;
+&lt;strong&gt;&lt;span style=&#34;color:#cc0000&#34;&gt;(GLSVLSI&#39;21)&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</description>
       
     </item>
     
@@ -142,7 +298,9 @@ Developted multiple GPU memory corruption attacks, including the first GPU retur
 &lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://yananguo.com/submission&#34; style= &#34;color: #464646&#34;&gt;&lt;u&gt; Invalidate+Compare: A Timer-Free GPU Cache Attack Primitive&lt;/u&gt;&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;
 Zhenkai Zhang, Kunbei Cai, &lt;strong&gt;Yanan Guo&lt;/strong&gt;, Fan Yao, Xing Gao&lt;br&gt;
 &lt;em&gt;Under submission&lt;/em&gt;.&lt;br&gt;
-Developed the first timer-free GPU cache side-channel attack.&lt;/p&gt;</description>
+Developed the first timer-free GPU cache side-channel attack.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</description>
       
     </item>
     
@@ -181,7 +339,34 @@ Developed the first timer-free GPU cache side-channel attack.&lt;/p&gt;</descrip
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;strong&gt;Leaky Way: A Conflict-Based Cache Covert Channel Bypassing Set Associativity&lt;/strong&gt;&lt;br&gt;
--MICRO&#39;22&lt;/p&gt;</description>
+-MICRO&#39;22&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Adversarial Attacks on DNN-based Adaptive Cruise Control Systems&lt;/strong&gt;&lt;br&gt;
+-SafeThings&#39;23&lt;br&gt;
+-NIO&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Prefetch-Based Cache Side Channel Attacks&lt;/strong&gt;&lt;br&gt;
+-CWIDCA&#39;22&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Q-GPU: A Recipe of Optimizations for Quantum Circuit Simulation Using GPUs&lt;/strong&gt;&lt;br&gt;
+-HPCA&#39;22&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;ModelShield: A Generic and Portable Framework Extension for Defending Bit-Flip based Adversarial Weight Attacks&lt;/strong&gt;&lt;br&gt;
+-ICCD&#39;21&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Performance-Enhanced Integrity Verification for Large Memories&lt;/strong&gt;&lt;br&gt;
+-SEED&#39;21&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;IVcache: Defending Cache Side Channel Attacks via Invisible Accesses&lt;/strong&gt;&lt;br&gt;
+-GLSVLSI&#39;21&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;</description>
       
     </item>
     
