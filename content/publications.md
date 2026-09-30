@@ -1,3 +1,14 @@
+1. **<a href="/files/ccs25.pdf" style= "color: #464646"> <u>Trapped Handler: A Practical Performance Degradation Attack on
+NVIDIA vGPU via Preemption Manipulation</u>**</a>   
+    Cheng Gu, Fatemeh Moradihaghighi, Daniel Genkin, Zhuo Li, Mengyuan Li, Zhenkai Zhang, and **Yanan Guo**  
+    *33rd ACM Conference on Computer and Communications Security*.  
+    **<span style="color:#cc0000">(CCS'26)</span>**
+   
+1. **<a href="/files/ccs25.pdf" style= "color: #464646"> <u>From Fault to Oracle: Breaking Google Pixel TPU Hardware Memory Isolation via Trusted Deserialization Faults</u>**</a>   
+    Minghao Lin, Guanxing Wen, Haoxuan Xu, Yuzhou Fang, Nanzi Yang, Xiaokuan Zhang, **Yanan Guo**, Zhuo Zhang, and Mengyuan Li  
+    *33rd ACM Conference on Computer and Communications Security*.  
+    **<span style="color:#cc0000">(CCS'26)</span>**
+   
 1. **<a href="/files/usenix26_2.pdf" style= "color: #464646"> <u>CuSafe: Capturing Memory Corruption on NVIDIA GPUs</u>**</a>   
     Hongyi Lu, Fengwei Zhang, Zhenkai Zhang, Shuai Wang, **Yanan Guo**   
     *35th USENIX Security Symposium*.  
