@@ -29,7 +29,7 @@ My research interests lie in computer architecture and cybersecurity, with a foc
 
 ---
 ### Recent News  
-**10/2026:** Our paper on vGPU performance degradation attacks has been accepted to **<span style="color: #cc0000;">CCS'26</span>**. Congrats, Cheng!    
+**10/2026:** Our paper on vGPU slowdown attacks is accepted to **<span style="color: #cc0000;">CCS'26</span>**. Congrats, Cheng!    
 **07/2026:** I am co-chairing **<span style="color: #cc0000;">GREPSEC VII</span>** co-located with **<span style="color: #cc0000;">USENIX Security'26</span>**.   
 **05/2026:** Our paper on GPU ASLR won the **Distinguished Paper Award** at **<span style="color: #cc0000;">Oakland'26</span>**.  
 **03/2026:** Our two papers on optimizing the performance of multi-GPU systems are accepted to **<span style="color: #cc0000;">ISCA'26</span>**.     
